@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-labelledby="ph-title">
+  <title id="ph-title">Placeholder artwork: a line drawing of a mother holding her child</title>
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#163326"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <radialGradient id="lamp" cx="0.62" cy="0.34" r="0.55">
+      <stop offset="0%" stop-color="#D8BC85" stop-opacity="0.30"/>
+      <stop offset="60%" stop-color="#B08C4F" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#B08C4F" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="ph-grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="1100" fill="url(#ground)"/>
+  <rect width="900" height="1100" fill="url(#lamp)"/>
+
+  <!-- horizon rule, echoing the brass hairlines that bind the page -->
+  <line x1="0" y1="806" x2="900" y2="806" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.85" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- mother: head -->
+    <circle cx="470" cy="330" r="86"/>
+    <!-- shoulders and torso -->
+    <path d="M300 806c0-140 66-244 170-244s170 104 170 244"/>
+    <!-- cradling arm -->
+    <path d="M356 636c-24 66 8 128 74 150 62 20 128-6 156-58"/>
+    <!-- infant, held -->
+    <circle cx="470" cy="700" r="46"/>
+    <path d="M424 742c14 30 42 46 76 42"/>
+  </g>
+
+  <!-- brass disc: the same marker used on the lineage cord -->
+  <circle cx="470" cy="330" r="122" fill="none" stroke="#B08C4F" stroke-opacity="0.35" stroke-width="1"/>
+
+  <rect width="900" height="1100" filter="url(#ph-grain)" opacity="0.05" style="mix-blend-mode:screen"/>
+</svg>

@@ -1,0 +1,360 @@
+{
+  "title": "Voices of Trust",
+  "intro": "Families who came to us worried, and what happened next. Every story here is published with the family's written consent.",
+  "note": "All entries are real and transcribed from patient reviews.",
+  "groups": [
+    {
+      "id": "pregnancy",
+      "label": "Pregnancy & birth",
+      "blurb": "Mothers who came to us while expecting."
+    },
+    {
+      "id": "postnatal",
+      "label": "After birth",
+      "blurb": "Recovery, feeding, and the first months."
+    },
+    {
+      "id": "children",
+      "label": "Our children",
+      "blurb": "Parents of infants, children and teenagers."
+    },
+    {
+      "id": "wellbeing",
+      "label": "Finding balance",
+      "blurb": "Women's health and mental well-being."
+    }
+  ],
+  "items": [
+    {
+      "slug": "postnatal-pilsy",
+      "group": "postnatal",
+      "featured": true,
+      "quote": "Home care ആയതുകൊണ്ട് തന്നെ വളരെ comfortable ആയിരുന്നു. അവർ വീട്ടിൽ വന്ന് എല്ലാ treatments ഉം, കുഞ്ഞിനെ കുളിപ്പിക്കൽ ഉൾപ്പെടെ, വളരെ നന്നായി ചെയ്തു തന്നു.",
+      "fullStory": [
+        "എന്റെ പേര് Pilsy. ഇത് എന്റെ മൂന്നാമത്തെ delivery ആയിരുന്നു. Social media വഴിയാണ് Kodakkattil team-നെ കുറിച്ച് അറിഞ്ഞത്. Contact ചെയ്തപ്പോൾ treatment, ദിവസങ്ങൾ, treatment plan എന്നിവയെല്ലാം വളരെ detailed ആയി explain ചെയ്തു തന്നു.",
+        "Affordable ആയിട്ടുള്ള rate-ൽ നല്ലൊരു treatment plan ആണെന്ന് തോന്നിയതുകൊണ്ട് ഞാൻ 14 ദിവസത്തെ postnatal home care treatment എടുത്തു. Home care ആയതുകൊണ്ട് തന്നെ വളരെ comfortable ആയിരുന്നു. അവർ വീട്ടിൽ വന്ന് എല്ലാ treatments ഉം, കുഞ്ഞിനെ കുളിപ്പിക്കൽ ഉൾപ്പെടെ, വളരെ നന്നായി ചെയ്തു തന്നു. 14 ദിവസത്തെ treatment കഴിഞ്ഞപ്പോൾ തന്നെ നല്ലൊരു positive change എനിക്ക് feel ചെയ്തു.",
+        "പലരും ചോദിച്ചപ്പോഴും ഞാൻ Kodakkattil team-ന്റെ postnatal home care recommend ചെയ്തിട്ടുണ്ട്. Doctors പോലും വീട്ടിൽ വന്ന് കാര്യങ്ങൾ ചോദിച്ചറിഞ്ഞ ശേഷമാണ് treatment plan നൽകുന്നത് എന്നത് വളരെ നല്ലതായി തോന്നി. ഒരുപാട് നന്ദി Kodakkattil team!"
+      ],
+      "name": "Pilsy",
+      "displayName": "Pilsy",
+      "city": "",
+      "treatment": "14 Days Postnatal Home Care",
+      "duration": "14 Days",
+      "rating": 5,
+      "photo": "/images/testimonials/postnatal-pilsy.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-aleena",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "Following my delivery, I faced back pain and other health concerns but, after the 14 days of post-natal treatment, I feel much more relief now.",
+      "name": "Aleena",
+      "displayName": "Aleena",
+      "city": "",
+      "treatment": "14 Days Postnatal Care",
+      "duration": "14 Days",
+      "rating": 5,
+      "fullStory": [
+        "I had a very positive experience with Kodakkattil Ayurvedics. Following my delivery, I faced back pain and other health concerns but, after the 14 days of post-natal treatment, I feel much more relief now.",
+        "The doctors, therapist and social media coordinator were all dedicated and committed to my recovery."
+      ],
+      "photo": "/images/testimonials/postnatal-aleena.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-ambili",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "വളരെ നല്ല പരിചരണവും റിലാക്സേഷനും ലഭിച്ച ഒരു അനുഭവമായിരുന്നു. എന്റെ തെറാപ്പിസ്റ്റ് Ameera വളരെ സ്നേഹത്തോടെയും ആത്മാർത്ഥതയോടെയുമാണ് ഓരോ ദിവസവും ട്രീറ്റ്മെന്റ് ചെയ്തത്.",
+      "name": "Dr. Ambili",
+      "displayName": "Dr. Ambili",
+      "city": "",
+      "treatment": "14 Days Postnatal Treatment",
+      "duration": "14 Days",
+      "rating": 5,
+      "fullStory": [
+        "Instagram വഴിയാണ് Kodakkattil Ayurvedics-നെ കുറിച്ച് അറിഞ്ഞത്. അവിടെ നിന്ന് 14 ദിവസത്തെ പോസ്റ്റ്നാറ്റൽ ട്രീറ്റ്മെന്റ് എടുത്തു. വളരെ നല്ല പരിചരണവും റിലാക്സേഷനും ലഭിച്ച ഒരു അനുഭവമായിരുന്നു.",
+        "എന്റെ തെറാപ്പിസ്റ്റ് Ameera വളരെ സ്നേഹത്തോടെയും ആത്മാർത്ഥതയോടെയുമാണ് ഓരോ ദിവസവും ട്രീറ്റ്മെന്റ് ചെയ്തത്. ശരീരത്തിനും മനസ്സിനും ഒരുപോലെ ആശ്വാസം നൽകിയ നല്ലൊരു അനുഭവം. പുതിയ അമ്മമാർക്ക് തീർച്ചയായും ശുപാർശ ചെയ്യുന്നു."
+      ],
+      "photo": "/images/testimonials/postnatal-ambili.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-faseena",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "ഡോക്ടറുടെ കൃത്യമായ പരിശോധനയും നിർദ്ദേശങ്ങളും ചികിത്സയിലുടനീളം എനിക്ക് ഏറെ ആത്മവിശ്വാസവും ആശ്വാസവും നൽകി.",
+      "name": "Faseena Kalathode",
+      "displayName": "Faseena Kalathode",
+      "city": "",
+      "treatment": "Ayurvedic Postnatal Treatment",
+      "duration": "14 Days",
+      "rating": 5,
+      "fullStory": [
+        "ഞാൻ അടുത്തിടെ ഇവിടെ നിന്ന് Ayurvedic postnatal treatment എടുത്തിരുന്നു. വളരെ മികച്ചതും സംതൃപ്തി നൽകുന്നതുമായ ഒരു അനുഭവമായിരുന്നു അത്.",
+        "ഡോക്ടറുടെ കൃത്യമായ പരിശോധനയും നിർദ്ദേശങ്ങളും ചികിത്സയിലുടനീളം എനിക്ക് ഏറെ ആത്മവിശ്വാസവും ആശ്വാസവും നൽകി. എന്റെ ആരോഗ്യസ്ഥിതി കൃത്യമായി മനസ്സിലാക്കി, അതനുസരിച്ചുള്ള അനുയോജ്യമായ ചികിത്സാരീതിയാണ് ഡോക്ടർ നിർദ്ദേശിച്ചത്.",
+        "ഇവിടുത്തെ തെറാപ്പിസ്റ്റുകളുടെ സേവനവും പെരുമാറ്റവും പ്രത്യേകം എടുത്തുപറയേണ്ടതാണ്. വളരെ ശ്രദ്ധയോടും കരുതലോടെയും ഉത്തരവാദിത്തത്തോടും കൂടിയാണ് ഓരോ treatment-ഉം അവർ ചെയ്തുതന്നത്. മികച്ച പരിചരണത്തിനും പിന്തുണയ്ക്കും മുഴുവൻ ടീമിനും ഹൃദയം നിറഞ്ഞ നന്ദി."
+      ],
+      "photo": "/images/testimonials/postnatal-faseena.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-najma",
+      "group": "postnatal",
+      "featured": true,
+      "quote": "I had a really good experience with my postnatal treatment after my C-section at Kodakkattil Ayurvedics.",
+      "name": "Najma",
+      "displayName": "Najma",
+      "city": "",
+      "treatment": "Postnatal Care",
+      "duration": "",
+      "rating": 5,
+      "fullStory": [
+        "I had a really good experience with my postnatal treatment after my C-section at Kodakkattil Ayurvedics. I’m especially thankful to my therapist, Ameera, who was very gentle, caring, and explained everything clearly throughout the treatment. Her support helped me a lot during my recovery.",
+        "A special thanks to Shruthi from the office staff as well. She was always polite, helpful, and made the appointment process very easy and convenient.",
+        "I’m also truly thankful to Dr. Athira Ma’am, who patiently cleared all my doubts and helped me understand everything better. Thank you to the entire KODAKKATTIL AYURVEDICS team for your genuine care and excellent service. Highly recommended for postnatal care!"
+      ],
+      "photo": "/images/testimonials/postnatal-najma.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-jesny",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "പ്രത്യേകിച്ച് back pain-ൽ നല്ല രീതിയിൽ relief ലഭിക്കുകയും ശരീരത്തിന് നല്ല relaxation അനുഭവപ്പെടുകയും ചെയ്തു.",
+      "name": "Jesny",
+      "displayName": "Jesny",
+      "city": "",
+      "treatment": "14 Days Postnatal Package",
+      "duration": "14 Days",
+      "rating": 5,
+      "fullStory": [
+        "പ്രസവശേഷം നല്ല back pain ഉം ശരീരത്തിൽ പല ഭാഗങ്ങളിലും നീർക്കെട്ടും ഉണ്ടായിരുന്നു. സാധാരണ ഉഴിച്ചിൽ എനിക്ക് comfortable ആയിരുന്നില്ല. അതുകൊണ്ടാണ് Kodakkattil Ayurvedics-ന്റെ 14 ദിവസത്തെ postnatal treatment package എടുത്തത്.",
+        "Treatment വളരെ നല്ലൊരു അനുഭവമായിരുന്നു. തെറാപ്പിസ്റ്റ് ചേച്ചി വളരെ ശ്രദ്ധയോടെയും കരുതലോടെയും treatment ചെയ്തു. പ്രത്യേകിച്ച് back pain-ൽ നല്ല രീതിയിൽ relief ലഭിക്കുകയും ശരീരത്തിന് നല്ല relaxation അനുഭവപ്പെടുകയും ചെയ്തു.",
+        "ഡോക്ടർമാരുടെ support-ഉം വളരെ മികച്ചതായിരുന്നു. സംശയങ്ങൾ ചോദിച്ചാൽ ഉടൻ തന്നെ ആവശ്യമായ guidance ലഭിച്ചിരുന്നു. കുഞ്ഞിന് gas സംബന്ധമായ പ്രശ്നങ്ങൾ ഉണ്ടായപ്പോഴും വേണ്ട നിർദ്ദേശങ്ങൾ സമയത്ത് ലഭിച്ചു. 14 ദിവസത്തെ treatment എടുത്തത് വളരെ ഉപകാരപ്രദമായി തോന്നി. മുഴുവൻ ടീമിനും നന്ദി."
+      ],
+      "photo": "/images/testimonials/postnatal-jesny.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-sreedevi",
+      "group": "postnatal",
+      "featured": true,
+      "quote": "വീട്ടിലെ ഒരാളെ പോലെ തന്നെ friendly ആയിട്ട്, വളരെ caring ആയിട്ടാണ് ഓരോ കാര്യവും നോക്കിയത്. Overall വളരെ നല്ലൊരു experience ആയിരുന്നു.",
+      "name": "Sreedevi",
+      "displayName": "Sreedevi",
+      "city": "",
+      "treatment": "Postnatal Care",
+      "duration": "",
+      "rating": 5,
+      "fullStory": [
+        "Treatment വളരെ നന്നായിരുന്നു. എനിക്ക് ഇപ്പോൾ നല്ല ആശ്വാസം തോന്നുന്നുണ്ട്. മോളുടെ കാര്യങ്ങൾ നോക്കുന്നതിനിടയിൽ ഉണ്ടായിരുന്ന back pain ഉൾപ്പെടെയുള്ള പല ബുദ്ധിമുട്ടുകളും treatment കഴിഞ്ഞപ്പോൾ കുറഞ്ഞു.",
+        "ചേച്ചി എന്റെ കാര്യമായാലും കുഞ്ഞിന്റെ കാര്യമായാലും എല്ലാം വളരെ നന്നായി ശ്രദ്ധിച്ചു ചെയ്തു തന്നു. വീട്ടിലെ ഒരാളെ പോലെ തന്നെ friendly ആയിട്ട്, വളരെ caring ആയിട്ടാണ് ഓരോ കാര്യവും നോക്കിയത്. Overall വളരെ നല്ലൊരു experience ആയിരുന്നു."
+      ],
+      "photo": "/images/testimonials/postnatal-sreedevi.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-divya",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "Treatment തുടങ്ങി കുറച്ച് ദിവസങ്ങൾക്കുള്ളിൽ തന്നെ back pain, body pain ഉൾപ്പെടെയുള്ള പല ബുദ്ധിമുട്ടുകൾക്കും നല്ല ആശ്വാസം കിട്ടി.",
+      "name": "Divya",
+      "displayName": "Divya",
+      "city": "",
+      "treatment": "Postnatal Home Care",
+      "duration": "",
+      "rating": 5,
+      "fullStory": [
+        "Delivery കഴിഞ്ഞ് Kodakkattil-ന്റെ postnatal home care treatment ആണ് എടുത്തത്. Home care ആയതുകൊണ്ട് തന്നെ വളരെ comfortable ആയിരുന്നു.",
+        "Treatment തുടങ്ങി കുറച്ച് ദിവസങ്ങൾക്കുള്ളിൽ തന്നെ back pain, body pain ഉൾപ്പെടെയുള്ള പല ബുദ്ധിമുട്ടുകൾക്കും നല്ല ആശ്വാസം കിട്ടി. Therapist വളരെ caring ആയിട്ടാണ് treatment ചെയ്തുതന്നത്, കുഞ്ഞിന്റെ കാര്യങ്ങളും നന്നായി ശ്രദ്ധിച്ചു.",
+        "Doctors-ന്റെയും മുഴുവൻ team-ന്റെയും support വളരെ നല്ലതായിരുന്നു. Overall വളരെ നല്ലൊരു postnatal experience ആയിരുന്നു. Kodakkattil team-ന് ഒരുപാട് നന്ദി."
+      ],
+      "photo": "/images/testimonials/postnatal-divya.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-anusha",
+      "group": "postnatal",
+      "featured": true,
+      "quote": "The treatments were very relaxing and helped me feel more comfortable and refreshed during the recovery period.",
+      "name": "Anusha",
+      "displayName": "Anusha",
+      "city": "",
+      "treatment": "14 Days Premium Postnatal Care",
+      "duration": "14 Days",
+      "rating": 5,
+      "fullStory": [
+        "I had a really good experience with the 14-day Premium Postnatal Care package at Kodakkattil Ayurvedics. The treatments were very relaxing and helped me feel more comfortable and refreshed during the recovery period.",
+        "My therapist Akshaya was very caring and supportive throughout the treatment. She did the massages with a lot of dedication and made sure I was comfortable. The guidance and support from Dr. Athira and Dr. Vishnu were also really good.",
+        "Overall, I’m very happy with the care and treatment I received. The entire team was friendly and supportive, and I would definitely recommend Kodakkattil for postnatal care."
+      ],
+      "photo": "/images/testimonials/postnatal-anusha.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-shani",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "I could genuinely feel the care and dedication they put into their service. It was a really pleasant and relaxing experience.",
+      "name": "Shani Albur Wright",
+      "displayName": "Shani Albur Wright",
+      "city": "",
+      "treatment": "7 Days Premium Package",
+      "duration": "7 Days",
+      "rating": 5,
+      "fullStory": [
+        "I opted for the 7-day Premium Package at Kodakkattil, and I’m extremely happy with the overall experience. From the very beginning, the service was excellent, caring, and professional.",
+        "The treatments were done with great care, and the therapist was very attentive and supportive throughout the entire period. I felt comfortable and well taken care of during my stay.",
+        "The entire team was friendly, approachable, and made sure I was comfortable throughout the treatment. I could genuinely feel the care and dedication they put into their service. It was a really pleasant and relaxing experience, and I’m very happy that I chose Kodakkattil. Thank you to the entire team for the wonderful care and support. Highly recommended!"
+      ],
+      "photo": "/images/testimonials/postnatal-shani.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-aswathy",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "ആദ്യം 14 ദിവസത്തെ package എടുത്തെങ്കിലും നല്ല മാറ്റം അനുഭവപ്പെട്ടതുകൊണ്ട് 21 ദിവസത്തേക്ക് extend ചെയ്തു.",
+      "name": "Aswathy",
+      "displayName": "Aswathy",
+      "city": "",
+      "treatment": "21 Days Postnatal Package",
+      "duration": "21 Days",
+      "rating": 5,
+      "fullStory": [
+        "Instagram-ൽ ഒരു ad കണ്ടിട്ടാണ് Kodakkattil-നെ കുറിച്ച് അറിയുന്നത്. ആദ്യം 14 ദിവസത്തെ package എടുത്തെങ്കിലും നല്ല മാറ്റം അനുഭവപ്പെട്ടതുകൊണ്ട് 21 ദിവസത്തേക്ക് extend ചെയ്തു. Delivery കഴിഞ്ഞ് 3 മാസം കഴിഞ്ഞായിരുന്നെങ്കിലും നല്ല result തന്നെ കിട്ടി.",
+        "Dr. Athira, Dr. Vishnu എന്നിവർ കാര്യങ്ങൾ നന്നായി explain ചെയ്തു തന്നു. Therapist Ameera വളരെ friendly ആയിട്ടും professional ആയിട്ടും treatment ചെയ്തു. ശരീരത്തിലെ വേദനകളും നല്ലപോലെ കുറഞ്ഞു.",
+        "വീട്ടിലുള്ള എല്ലാവർക്കും treatment ഇഷ്ടപ്പെട്ടു. വളരെ നല്ലൊരു experience ആയിരുന്നു. Kodakkattil team-ന് ഒരുപാട് നന്ദി."
+      ],
+      "photo": "/images/testimonials/postnatal-aswathy.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-ajna",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "എനിക്ക് നല്ല gas problem ഉണ്ടായിരുന്നു, treatment കഴിഞ്ഞപ്പോൾ അതെല്ലാം മാറി. നല്ല നടുവേദനയും ഉണ്ടായിരുന്നു, ഉഴിച്ചിൽ ചെയ്തതോടെ കുറച്ച് ദിവസങ്ങൾക്കുള്ളിൽ തന്നെ നല്ല ആശ്വാസം കിട്ടി.",
+      "name": "Ajna",
+      "displayName": "Ajna",
+      "city": "",
+      "treatment": "7 Days Postnatal Treatment",
+      "duration": "7 Days",
+      "rating": 5,
+      "fullStory": [
+        "Kodakkattil-ന്റെ 7 ദിവസത്തെ postnatal treatment എടുത്തിരുന്നു. എനിക്ക് നല്ല gas problem ഉണ്ടായിരുന്നു, treatment കഴിഞ്ഞപ്പോൾ അതെല്ലാം മാറി.",
+        "നല്ല നടുവേദനയും ഉണ്ടായിരുന്നു, ഉഴിച്ചിൽ ചെയ്തതോടെ കുറച്ച് ദിവസങ്ങൾക്കുള്ളിൽ തന്നെ നല്ല ആശ്വാസം കിട്ടി. Babyക്കും gas problem ഉണ്ടായിരുന്നു, ഇവിടെനിന്ന് തന്ന medicine കൊടുത്തപ്പോൾ അതിലും നല്ല മാറ്റമുണ്ടായി. Totally നല്ലൊരു experience ആയിരുന്നു."
+      ],
+      "photo": "/images/testimonials/postnatal-ajna.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-pranitha",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "ഈ treatment വഴി ശാരീരികവും മാനസികവുമായ ബുദ്ധിമുട്ടുകളിൽ നല്ല ആശ്വാസം ലഭിച്ചു.",
+      "name": "Pranitha",
+      "displayName": "Pranitha",
+      "city": "",
+      "treatment": "21 Days Postnatal Treatment",
+      "duration": "21 Days",
+      "rating": 5,
+      "fullStory": [
+        "21 ദിവസത്തെ പ്രസവരക്ഷ treatment ആണ് ഞാൻ Kodakkattil-ൽ നിന്നും എടുത്തത്. Dr. Vishnu കുഞ്ഞിന്റെ കാര്യങ്ങളും Dr. Vaani എനിക്കുള്ള medicines-നെക്കുറിച്ചും വളരെ വിശദമായി പറഞ്ഞുതന്നു. Home visit ചെയ്ത Dr. Athira മറ്റു treatment കാര്യങ്ങളും ശ്രദ്ധിച്ചിരുന്നു.",
+        "Postpartum psychologist-ന്റെ session എനിക്ക് വളരെ ഉപകാരപ്പെട്ടു. Therapists എല്ലാവരും friendly ആയിരുന്നു. ഈ treatment വഴി ശാരീരികവും മാനസികവുമായ ബുദ്ധിമുട്ടുകളിൽ നല്ല ആശ്വാസം ലഭിച്ചു.",
+        "പ്രത്യേകിച്ച് Dr. Vishnu, Dr. Vaani, Dr. Athira, Anu, Radhika Chechi, Roopa Chechi എന്നിവർക്കും മുഴുവൻ Kodakkattil team-നും ഒരുപാട് നന്ദി."
+      ],
+      "photo": "/images/testimonials/postnatal-pranitha.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-suprima",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "7 days കഴിഞ്ഞപ്പോൾ തന്നെ back pain-ഉം മറ്റ് ബുദ്ധിമുട്ടുകളും നല്ല രീതിയിൽ കുറഞ്ഞു. Kizhi കൂടി ചെയ്തപ്പോൾ കുറച്ചുകൂടി effective ആയി തോന്നി.",
+      "name": "Suprima",
+      "displayName": "Suprima",
+      "city": "",
+      "treatment": "14 Days Postnatal Treatment",
+      "duration": "14 Days",
+      "rating": 5,
+      "fullStory": [
+        "നല്ലൊരു treatment ആയിരുന്നു. ഞാൻ 14 days ആണ് എടുത്തത്. 7 days കഴിഞ്ഞപ്പോൾ തന്നെ back pain-ഉം മറ്റ് ബുദ്ധിമുട്ടുകളും നല്ല രീതിയിൽ കുറഞ്ഞു.",
+        "Kizhi കൂടി ചെയ്തപ്പോൾ കുറച്ചുകൂടി effective ആയി തോന്നി. Overall നല്ലൊരു experience ആയിരുന്നു. Thank you Kodakkattil team!",
+        "Special thanks നമ്മുടെ therapist Roopa Chechi. വളരെ caring ആയിട്ടും നല്ല രീതിയിലും treatment ചെയ്തു തന്നതിന് ഒരുപാട് നന്ദി ചേച്ചി."
+      ],
+      "photo": "/images/testimonials/postnatal-suprima.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-kavitha",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "എന്തെങ്കിലും discomfort ഉണ്ടോ എന്ന് ചോദിച്ചറിഞ്ഞ് അതനുസരിച്ച് treatment ചെയ്തുതന്നതും വളരെ നല്ലതായി തോന്നി.",
+      "name": "Kavitha",
+      "displayName": "Kavitha",
+      "city": "",
+      "treatment": "Postnatal Care",
+      "rating": 5,
+      "fullStory": [
+        "Kodakkattil-ലെ treatment എല്ലാം വളരെ നല്ലതായിരുന്നു. Treatment എടുത്ത സമയത്ത് നല്ല care-ഉം support-ഉം ലഭിച്ചു.",
+        "Therapist ഓരോ ദിവസത്തെയും treatment വളരെ ശ്രദ്ധയോടെയും കൃത്യമായും ചെയ്തു തന്നു. എന്തെങ്കിലും discomfort ഉണ്ടോ എന്ന് ചോദിച്ചറിഞ്ഞ് അതനുസരിച്ച് treatment ചെയ്തുതന്നതും വളരെ നല്ലതായി തോന്നി.",
+        "ഇപ്പോൾ treatment കഴിഞ്ഞപ്പോൾ നല്ല ആശ്വാസം തോന്നുന്നുണ്ട്, postpartum സമയത്തുണ്ടായിരുന്ന പല ബുദ്ധിമുട്ടുകളും കുറഞ്ഞു. Overall Kodakkattil team-ന്റെ care-ലും treatment-ലും ഞാൻ വളരെ satisfied ആണ്. എല്ലാവർക്കും ഒരുപാട് നന്ദി."
+      ],
+      "photo": "/images/testimonials/postnatal-kavitha.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    },
+    {
+      "slug": "postnatal-simiry",
+      "group": "postnatal",
+      "featured": false,
+      "quote": "ചികിത്സ തുടങ്ങി കുറച്ച് ദിവസങ്ങൾക്കുള്ളിൽ തന്നെ എന്റെ നടുവേദനയ്ക്ക് കാര്യമായ മാറ്റം അനുഭവപ്പെട്ടു.",
+      "name": "Simiry",
+      "displayName": "Simiry",
+      "city": "",
+      "treatment": "7 Days Home Postnatal Care",
+      "duration": "7 Days",
+      "rating": 5,
+      "fullStory": [
+        "പ്രസവ ശേഷം കടുത്ത നടുവേദന കാരണം വലിയ ബുദ്ധിമുട്ടിലായിരുന്നു ഞാൻ. അങ്ങനെയാണ് Kodakkattil ayurvedics ലെ 7 ദിവസത്തെ പ്രസവരക്ഷാ ചികിത്സ വീട്ടിൽ തന്നെ ചെയ്യാൻ തീരുമാനിക്കുന്നത്. വളരെ നല്ലൊരു അനുഭവമായിരുന്നു അത്.",
+        "വീട്ടിൽ വന്ന തെറാപ്പിസ്റ്റ് ബിന്ദു ചേച്ചി വളരെ സ്നേഹത്തോടെയും ഉത്തരവാദിത്തത്തോടെയുമാണ് എന്നെ പരിചരിച്ചത്. ചികിത്സ തുടങ്ങി കുറച്ച് ദിവസങ്ങൾക്കുള്ളിൽ തന്നെ എന്റെ നടുവേദനയ്ക്ക് കാര്യമായ മാറ്റം അനുഭവപ്പെട്ടു.",
+        "ബിന്ദു ചേച്ചിയുടെ നല്ല പരിചരണം കാരണം പ്രസവാനന്തരമുള്ള ക്ഷീണമൊക്കെ മാറി ശരീരത്തിന് വലിയ ആശ്വാസവും കിട്ടി. വീട്ടിലെ അന്തരീക്ഷത്തിൽ തന്നെ ഇത്രയും മികച്ച ഒരു സേവനം നൽകിയതിന് ഒത്തിരി സന്തോഷം."
+      ],
+      "photo": "/images/testimonials/postnatal-simiry.jpeg",
+      "videoId": null,
+      "consentOnFile": true,
+      "placeholder": false
+    }
+  ]
+}

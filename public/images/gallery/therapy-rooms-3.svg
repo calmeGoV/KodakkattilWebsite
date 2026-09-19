@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-labelledby="ttherapy-rooms2">
+  <title id="ttherapy-rooms2">Placeholder — therapy rooms</title>
+  <defs>
+    <linearGradient id="bgtherapy-rooms2" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="grtherapy-rooms2">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="1200" height="900" fill="url(#bgtherapy-rooms2)"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M292.10526315789474 402.63157894736844q307.89473684210526 279.4736842105263 615.7894736842105 0"/>
+    <path d="M244.73684210526318 402.63157894736844h710.5263157894736"/>
+    <ellipse cx="600" cy="402.63157894736844" rx="307.89473684210526" ry="47.368421052631575"/>
+    <path d="M244.73684210526318 402.63157894736844a42.63157894736842 42.63157894736842 0 0 1 -56.84210526315789 -37.89473684210526M955.2631578947369 402.63157894736844a42.63157894736842 42.63157894736842 0 0 0 56.84210526315789 -37.89473684210526"/>
+  </g>
+  <rect x="8" y="8" width="1184" height="884" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="1200" height="900" filter="url(#grtherapy-rooms2)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

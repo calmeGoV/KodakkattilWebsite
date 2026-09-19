@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-labelledby="thospital0">
+  <title id="thospital0">Placeholder — hospital</title>
+  <defs>
+    <linearGradient id="bghospital0" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="grhospital0">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="1200" height="900" fill="url(#bghospital0)"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M244.73684210526318 473.6842105263158L600 260.5263157894737l355.2631578947368 213.15789473684208"/>
+    <path d="M287.3684210526316 473.6842105263158v203.68421052631578h625.2631578947368v-203.68421052631578"/>
+    <path d="M372.63157894736844 677.3684210526316v-146.8421052631579M524.2105263157895 677.3684210526316v-146.8421052631579M675.7894736842105 677.3684210526316v-146.8421052631579M827.3684210526316 677.3684210526316v-146.8421052631579"/>
+    <path d="M221.0526315789474 677.3684210526316h757.8947368421052M183.15789473684214 715.2631578947369h833.6842105263157"/>
+    <path d="M557.3684210526316 677.3684210526316v-94.73684210526315h85.26315789473684v94.73684210526315"/>
+  </g>
+  <rect x="8" y="8" width="1184" height="884" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="1200" height="900" filter="url(#grhospital0)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

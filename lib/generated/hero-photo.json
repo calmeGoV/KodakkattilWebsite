@@ -1,0 +1,15 @@
+{
+  "wide": {
+    "srcset": "/images/hero/mother-child-hero-960.webp 960w, /images/hero/mother-child-hero-1280.webp 1280w, /images/hero/mother-child-hero-1600.webp 1600w",
+    "fallback": "/images/hero/mother-child-hero-1600.webp",
+    "width": 1600,
+    "height": 1104
+  },
+  "narrow": {
+    "srcset": "/images/hero/mother-child-hero-narrow-560.webp 560w, /images/hero/mother-child-hero-narrow-828.webp 828w",
+    "fallback": "/images/hero/mother-child-hero-narrow-828.webp",
+    "width": 828,
+    "height": 1104
+  },
+  "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQBACdASoUAA4APt1ap0yopSOiMAgBEBuJYwCw7CFb+xr2tLaVuSKx4JAAAP7ThTIDfm9GfQj41wuoxqO5x1nb6Xqtq6wtpCtu6dx/2V8k9Y5l1cU2HpqDvgeATC68u0q4bcGQF8X5wfBmoj3yqHSTOjhfOKMfT8yAAA=="
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" width="960" height="660" role="img" aria-labelledby="ta4">
+  <title id="ta4">Placeholder — medicine kitchen</title>
+  <defs>
+    <linearGradient id="bga4" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="gra4">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="960" height="660" fill="url(#bga4)"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M348 323.05263157894734q132 180.63157894736844 264 0"/>
+    <path d="M313.2631578947368 323.05263157894734h333.47368421052636"/>
+    <path d="M410.5263157894737 465.47368421052636h138.94736842105263"/>
+    <path d="M559.8947368421052 270.9473684210526l100.73684210526316 -180.63157894736844"/>
+    <path d="M639.7894736842105 107.68421052631578a31.263157894736842 31.263157894736842 0 1 1 45.15789473684211 24.315789473684212"/>
+  </g>
+  <rect x="8" y="8" width="944" height="644" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="960" height="660" filter="url(#gra4)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

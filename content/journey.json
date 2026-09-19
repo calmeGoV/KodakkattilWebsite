@@ -1,0 +1,13 @@
+{
+  "title": "Your Patient Journey",
+  "intro": "Six steps, from the first message to the follow-up months later. Nothing about this should feel uncertain.",
+  "steps": [
+    { "order": 1, "name": "How to book", "body": "Call, message us on WhatsApp, or use the booking form. Tell us who the appointment is for and roughly what is worrying you — that is enough to get started." },
+    { "order": 2, "name": "First consultation", "body": "An unhurried conversation with the doctor, in person, by teleconsultation, or by video consultation. We ask about history, routine, diet, sleep and the family, because in Ayurveda those are clinical facts." },
+    { "order": 3, "name": "Assessment", "body": "Examination and assessment of your Prakriti (constitution) and current imbalance, so that treatment addresses the root cause rather than the symptom alone." },
+    { "order": 4, "name": "Personalized treatment plan", "body": "A written plan: therapies, herbal medicines, diet, and daily routine — with the reasoning explained, and the expected timeline stated plainly." },
+    { "order": 5, "name": "Therapies", "body": "Treatment is carried out by our trained therapist in dedicated rooms, with mother-and-baby suites where a feeding schedule needs to be respected." },
+    { "order": 6, "name": "Follow-up care", "body": "Scheduled reviews to adjust the plan as you respond, and ongoing guidance so that improvement holds after the course of treatment ends." }
+  ],
+  "sourceNote": "Step names are verbatim from the source document. Step bodies are drafts written to match clinic practice and require clinician sign-off."
+}

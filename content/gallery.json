@@ -1,0 +1,195 @@
+{
+  "title": "Gallery",
+  "intro": "The building, the treatment rooms, and the spaces we set aside for mothers and children.",
+  "note": "DUMMY CONTENT — no photographs have been supplied. Every item below renders a drawn placeholder. Drop real images into /public/images/gallery, set `image`, and remove `placeholder`.",
+  "groups": [
+    {
+      "id": "hospital",
+      "label": "Hospital"
+    },
+    {
+      "id": "therapy-rooms",
+      "label": "Therapy rooms"
+    },
+    {
+      "id": "mother-baby",
+      "label": "Mother & baby suites"
+    },
+    {
+      "id": "childrens-area",
+      "label": "Children’s therapy area"
+    },
+    {
+      "id": "doctors",
+      "label": "Doctors"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "items": [
+    {
+      "id": "g01",
+      "group": "hospital",
+      "caption": "DUMMY — The main building from the temple road",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g02",
+      "group": "hospital",
+      "caption": "DUMMY — The original treatment wing",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g03",
+      "group": "hospital",
+      "caption": "DUMMY — The reception and waiting courtyard",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g04",
+      "group": "therapy-rooms",
+      "caption": "DUMMY — A Panchakarma treatment room",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g05",
+      "group": "therapy-rooms",
+      "caption": "DUMMY — The Shirodhara table",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g06",
+      "group": "therapy-rooms",
+      "caption": "DUMMY — The medicine kitchen",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g07",
+      "group": "mother-baby",
+      "caption": "DUMMY — A mother and baby suite",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g08",
+      "group": "mother-baby",
+      "caption": "DUMMY — The feeding room",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g09",
+      "group": "mother-baby",
+      "caption": "DUMMY — The postnatal therapy room",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g10",
+      "group": "childrens-area",
+      "caption": "DUMMY — The children’s therapy area",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g11",
+      "group": "childrens-area",
+      "caption": "DUMMY — The waiting area for families",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g12",
+      "group": "childrens-area",
+      "caption": "DUMMY — The paediatric consulting room",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g13",
+      "group": "doctors",
+      "caption": "DUMMY — Dr. Vishnu K. S. in consultation",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g14",
+      "group": "doctors",
+      "caption": "DUMMY — Dr. Shilpa Vishnu in session",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g15",
+      "group": "doctors",
+      "caption": "DUMMY — The clinical team",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g16",
+      "group": "events",
+      "caption": "DUMMY — A prenatal education session",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g17",
+      "group": "events",
+      "caption": "DUMMY — A community health camp",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    },
+    {
+      "id": "g18",
+      "group": "events",
+      "caption": "DUMMY — Onam at the vaidyasala",
+      "image": null,
+      "width": 1200,
+      "height": 900,
+      "placeholder": true
+    }
+  ]
+}

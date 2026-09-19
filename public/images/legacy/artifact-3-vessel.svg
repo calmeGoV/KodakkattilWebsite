@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" width="960" height="660" role="img" aria-labelledby="ta2">
+  <title id="ta2">Placeholder — brass vessel</title>
+  <defs>
+    <linearGradient id="bga2" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="gra2">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="960" height="660" fill="url(#bga2)"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M254.21052631578945 295.2631578947368q225.78947368421055 204.94736842105263 451.5789473684211 0"/>
+    <path d="M219.4736842105263 295.2631578947368h521.0526315789474"/>
+    <ellipse cx="480" cy="295.2631578947368" rx="225.78947368421055" ry="34.73684210526316"/>
+    <path d="M219.4736842105263 295.2631578947368a31.263157894736842 31.263157894736842 0 0 1 -41.684210526315795 -27.789473684210527M740.5263157894738 295.2631578947368a31.263157894736842 31.263157894736842 0 0 0 41.684210526315795 -27.789473684210527"/>
+  </g>
+  <rect x="8" y="8" width="944" height="644" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="960" height="660" filter="url(#gra2)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

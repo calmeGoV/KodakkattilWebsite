@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" width="960" height="660" role="img" aria-labelledby="ta3">
+  <title id="ta3">Placeholder — oil lamp</title>
+  <defs>
+    <linearGradient id="bga3" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="gra3">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="960" height="660" fill="url(#bga3)"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M480 163.26315789473682c0 38.21052631578947 45.15789473684211 59.05263157894737 45.15789473684211 100.73684210526316a45.15789473684211 45.15789473684211 0 0 1 -90.31578947368422 0c0 -41.684210526315795 45.15789473684211 -62.526315789473685 45.15789473684211 -100.73684210526316Z"/>
+    <path d="M382.7368421052631 312.63157894736844q97.26315789473685 52.10526315789474 194.5263157894737 0"/>
+    <path d="M480 336.94736842105266v79.89473684210526"/>
+    <path d="M410.5263157894737 416.8421052631579q69.47368421052632 41.684210526315795 138.94736842105263 0"/>
+    <path d="M480 437.6842105263158v45.15789473684211"/>
+    <path d="M372.3157894736842 482.8421052631579h215.3684210526316"/>
+  </g>
+  <rect x="8" y="8" width="944" height="644" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="960" height="660" filter="url(#gra3)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

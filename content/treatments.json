@@ -1,0 +1,105 @@
+{
+  "title": "Treatments & Therapies",
+  "intro": "Classical therapies, prepared and administered the way they have been here for generations.",
+  "items": [
+    {
+      "slug": "panchakarma",
+      "name": "Panchakarma",
+      "sanskrit": "पञ्चकर्म",
+      "malayalam": "പഞ്ചകർമ്മ",
+      "note": "The classical five-fold purification. A staged programme of preparation, elimination and rebuilding, prescribed only after assessment and carried out under supervision over several days.",
+      "draft": true
+    },
+    {
+      "slug": "abhyanga",
+      "name": "Abhyanga",
+      "sanskrit": "अभ्यङ्ग",
+      "malayalam": "അഭ്യംഗം",
+      "note": "Warm medicated oil worked over the whole body in long strokes. Used both on its own and as preparation before deeper therapies.",
+      "draft": true
+    },
+    {
+      "slug": "pizhichil",
+      "name": "Pizhichil",
+      "malayalam": "പിഴിച്ചിൽ",
+      "note": "A continuous stream of warm medicated oil poured over the body while it is massaged. Traditionally used for stiffness, pain and depletion.",
+      "draft": true
+    },
+    {
+      "slug": "njavarakizhi",
+      "name": "Njavarakizhi",
+      "malayalam": "ഞവരക്കിഴി",
+      "note": "Boluses of njavara rice cooked in milk and herbal decoction, applied warm. Nourishing rather than reducing — often used in recovery and in the elderly.",
+      "draft": true
+    },
+    {
+      "slug": "shirodhara",
+      "name": "Shirodhara",
+      "sanskrit": "शिरोधारा",
+      "malayalam": "ശിരോധാര",
+      "note": "A steady stream of warm oil or decoction poured across the forehead. Widely used for sleep, anxiety and mental fatigue.",
+      "draft": true
+    },
+    {
+      "slug": "kizhi",
+      "name": "Kizhi",
+      "malayalam": "കിഴി",
+      "note": "Warm poultices of herbs, powders or rice applied in rhythm over the body or a specific area.",
+      "draft": true
+    },
+    {
+      "slug": "herbal-medicines",
+      "name": "Herbal medicines",
+      "note": "Internal preparations dispensed from our own kitchen — decoctions, powders, medicated ghee and oils, prepared to classical method.",
+      "draft": true
+    },
+    {
+      "slug": "yoga-therapy",
+      "name": "Yoga Therapy",
+      "note": "Postures and breathing prescribed for the individual, including modified sequences for pregnancy and the postpartum months.",
+      "draft": true
+    },
+    {
+      "slug": "meditation",
+      "name": "Meditation",
+      "note": "Guided practice used alongside psychological care for stress, sleep and emotional regulation.",
+      "draft": true
+    },
+    {
+      "slug": "diet-therapy",
+      "name": "Diet therapy",
+      "note": "Food as treatment: what to eat, when, and in what state — matched to constitution, season and stage of life.",
+      "draft": true
+    },
+    {
+      "slug": "udvarthanam",
+      "name": "Udvarthanam",
+      "sanskrit": "उद्वर्तन",
+      "malayalam": "ഉദ്വർത്തനം",
+      "note": "Dry or semi-dry herbal powder massage worked against the direction of hair growth. Used in weight management and hormonal conditions.",
+      "draft": true
+    },
+    {
+      "slug": "nethradhara",
+      "name": "Nethradhara",
+      "malayalam": "നേത്രധാര",
+      "note": "A gentle wash of medicated liquid over the eyes, for strain, dryness and irritation.",
+      "draft": true
+    },
+    {
+      "slug": "steam-bath",
+      "name": "Steam bath",
+      "sanskrit": "स्वेदन",
+      "malayalam": "ആവിക്കുളി",
+      "note": "Medicated steam, usually following oil application, to open the channels and prepare for elimination.",
+      "draft": true
+    },
+    {
+      "slug": "lifestyle-modification",
+      "name": "Lifestyle modification",
+      "note": "Daily and seasonal routine — dinacharya and ritucharya — worked out with you rather than handed to you.",
+      "draft": true
+    }
+  ],
+  "note": "DUMMY CONTENT — the description on each therapy is drafted for clinician review, not taken from the source document. Have a doctor approve or rewrite each one before launch."
+}

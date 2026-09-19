@@ -1,0 +1,108 @@
+{
+  "title": "Knowledge Hub",
+  "intro": "A regularly updated blog with practical, unhurried reading for parents and mothers.",
+  "note": "DUMMY CONTENT — all six articles are invented placeholders flagged placeholder: true. Health writing is the most dangerous thing on this site to fake: replace every article with doctor-written copy, or delete the entries, before launch.",
+  "topics": [
+    "Pregnancy tips",
+    "Child nutrition",
+    "Breastfeeding",
+    "PCOS management",
+    "Mental wellness",
+    "Parenting advice",
+    "Ayurveda lifestyle",
+    "Seasonal health"
+  ],
+  "posts": [
+    {
+      "slug": "is-ayurveda-safe-in-pregnancy",
+      "title": "What Garbhini Paricharya actually asks of you",
+      "topic": "Pregnancy tips",
+      "date": "2026-07-28",
+      "readingMinutes": 6,
+      "author": "dr-reshma-nair",
+      "excerpt": "Month-by-month guidance from the classical texts, translated into what it means for an ordinary week.",
+      "body": [
+        "DUMMY ARTICLE — replace with a doctor-written piece. Garbhini Paricharya sets out guidance for each month of pregnancy, covering food, routine, rest and gentle therapy.",
+        "DUMMY ARTICLE — a second section explaining what changes in each trimester.",
+        "DUMMY ARTICLE — a closing section on when to speak to a physician."
+      ],
+      "cover": null,
+      "placeholder": true
+    },
+    {
+      "slug": "first-forty-days",
+      "title": "The first forty days: why postnatal care is a treatment, not a rest",
+      "topic": "Breastfeeding",
+      "date": "2026-07-14",
+      "readingMinutes": 7,
+      "author": "dr-reshma-nair",
+      "excerpt": "Sutika Paricharya treats the postpartum months as a clinical window. Here is what that means in practice.",
+      "body": [
+        "DUMMY ARTICLE — replace with a doctor-written piece.",
+        "DUMMY ARTICLE — a second section."
+      ],
+      "cover": null,
+      "placeholder": true
+    },
+    {
+      "slug": "child-immunity-first-five-years",
+      "title": "Building immunity in the first five years",
+      "topic": "Child nutrition",
+      "date": "2026-06-30",
+      "readingMinutes": 5,
+      "author": "dr-anitha-menon",
+      "excerpt": "What helps, what does not, and why the answer usually starts with digestion rather than supplements.",
+      "body": [
+        "DUMMY ARTICLE — replace with a doctor-written piece.",
+        "DUMMY ARTICLE — a second section."
+      ],
+      "cover": null,
+      "placeholder": true
+    },
+    {
+      "slug": "pcos-beyond-the-diagnosis",
+      "title": "PCOS: what changes when you treat the whole picture",
+      "topic": "PCOS management",
+      "date": "2026-06-12",
+      "readingMinutes": 8,
+      "author": "dr-lakshmi-warrier",
+      "excerpt": "Two people with the same diagnosis rarely need the same plan. Why assessment comes before protocol.",
+      "body": [
+        "DUMMY ARTICLE — replace with a doctor-written piece.",
+        "DUMMY ARTICLE — a second section."
+      ],
+      "cover": null,
+      "placeholder": true
+    },
+    {
+      "slug": "postpartum-low-mood",
+      "title": "Low mood after birth is common. It is also treatable.",
+      "topic": "Mental wellness",
+      "date": "2026-05-29",
+      "readingMinutes": 6,
+      "author": "dr-shilpa-vishnu",
+      "excerpt": "The difference between the baby blues and postpartum depression, and when to ask for help.",
+      "body": [
+        "DUMMY ARTICLE — replace with a doctor-written piece.",
+        "DUMMY ARTICLE — a second section."
+      ],
+      "cover": null,
+      "placeholder": true
+    },
+    {
+      "slug": "monsoon-routine-kerala",
+      "title": "A monsoon routine that actually suits Kerala",
+      "topic": "Seasonal health",
+      "date": "2026-05-10",
+      "readingMinutes": 4,
+      "author": "dr-vishnu-k-s",
+      "excerpt": "Ritucharya for the wettest months: food, sleep and the small adjustments that prevent the usual complaints.",
+      "body": [
+        "DUMMY ARTICLE — replace with a doctor-written piece.",
+        "DUMMY ARTICLE — a second section."
+      ],
+      "cover": null,
+      "placeholder": true
+    }
+  ]
+}

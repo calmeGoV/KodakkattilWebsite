@@ -1,0 +1,239 @@
+[
+  {
+    "slug": "dr-vishnu-k-s",
+    "name": "Dr. Vishnu K. S.",
+    "qualifications": "B.A.M.S, F.O.R.S, C.P.D | Ayurvedic Pediatrician",
+    "role": "Founder | Specialist in Balachikitsa",
+    "specialities": [
+      "paediatric-care",
+      "maternity-care"
+    ],
+    "focusAreas": [
+      "Balachikitsa (Kaumarabhritya)",
+      "Healthy growth and development",
+      "Immunity in infants and children",
+      "Developmental milestones",
+      "Childhood health concerns",
+      "Preventive paediatric care"
+    ],
+    "bio": [
+      "Dr. Vishnu K. S. is a dedicated Ayurvedic physician committed to preserving the rich healing traditions of our hospital while providing compassionate, patient-centred care. Specializing in Balachikitsa (Kaumarabhritya), the branch of Ayurveda devoted to the health and well-being of infants, children, and adolescents, he focuses on promoting healthy growth, strengthening immunity, supporting developmental milestones, and managing childhood health concerns through safe, evidence-informed Ayurvedic practices.",
+      "With a deep respect for classical Ayurvedic principles and a commitment to individualized treatment, Dr. Vishnu believes that every child deserves a healthy beginning. His approach emphasizes preventive care, holistic healing, and close collaboration with families to ensure the best possible outcomes for every young patient.",
+      "As a founder, he is dedicated to carrying forward our hospital's 150-year legacy of authentic Ayurvedic healing, combining timeless wisdom with compassionate clinical care to serve future generations."
+    ],
+    "languages": [
+      "English",
+      "Malayalam",
+      "Hindi"
+    ],
+    "experienceYears": 14,
+    "experienceNote": "DUMMY — years of practice not stated in the source document.",
+    "consultationModes": [
+      "in-person",
+      "teleconsultation",
+      "video-consultation"
+    ],
+    "clinicHours": [
+      {
+        "day": "Monday – Saturday",
+        "hours": "9:00 am – 1:00 pm"
+      },
+      {
+        "day": "Tuesday & Thursday",
+        "hours": "4:00 pm – 7:00 pm"
+      }
+    ],
+    "publications": [
+      "DUMMY_PUBLICATION — talks and papers to be supplied"
+    ],
+    "portrait": "/images/doctors/dr-vishnu-k-s.jpeg",
+    "isFounder": true,
+    "placeholder": false,
+    "portraitPlaceholder": false
+  },
+  {
+    "slug": "dr-shilpa-vishnu",
+    "name": "Dr. Shilpa Vishnu",
+    "qualifications": "B.Sc, M.Sc, PGDCA, Ph.D | Psychologist",
+    "role": "Co-Founder | Psychologist",
+    "specialities": [
+      "mental-health",
+      "maternity-care",
+      "womens-care"
+    ],
+    "focusAreas": [
+      "Maternal mental health",
+      "Postnatal emotional well-being",
+      "Women's mental health",
+      "Parenting support",
+      "Child psychological well-being",
+      "Stress management",
+      "Anxiety",
+      "Emotional resilience",
+      "Psychological counselling"
+    ],
+    "bio": [
+      "Dr. Shilpa Vishnu is a psychologist with expertise in promoting emotional well-being across different stages of life. She is passionate about integrating psychological care with holistic health, recognizing that true healing involves both the mind and the body.",
+      "Her areas of focus include maternal mental health, postnatal emotional well-being, women's mental health, parenting support, child psychological well-being, stress management, anxiety, emotional resilience, and psychological counselling. She believes that compassionate listening, scientific understanding, and individualized care are essential to supporting lasting mental wellness.",
+      "As a co-founder, Dr. Shilpa works to strengthen the hospital's vision of providing comprehensive care by combining the wisdom of Ayurveda with modern psychological approaches. Together with the clinical team, she strives to create a nurturing environment where mothers, children, women, and families receive holistic support for both physical and emotional health."
+    ],
+    "languages": [
+      "English",
+      "Malayalam",
+      "Hindi"
+    ],
+    "experienceYears": 11,
+    "experienceNote": "DUMMY — years of practice not stated in the source document.",
+    "consultationModes": [
+      "in-person",
+      "teleconsultation",
+      "video-consultation"
+    ],
+    "clinicHours": [
+      {
+        "day": "Monday, Wednesday, Friday",
+        "hours": "10:00 am – 4:00 pm"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:00 am – 1:00 pm"
+      }
+    ],
+    "publications": [
+      "DUMMY_PUBLICATION — talks and papers to be supplied"
+    ],
+    "portrait": "/images/doctors/dr-shilpa-vishnu.jpeg",
+    "isFounder": true,
+    "placeholder": false,
+    "portraitPlaceholder": false
+  },
+  {
+    "slug": "dr-vani-k-s",
+    "name": "Dr. Vani K. S.",
+    "qualifications": "B.A.M.S | Cosmetology Ayurveda Physician",
+    "role": "Consultant, Ayurveda Physician",
+    "specialities": [
+      "womens-care"
+    ],
+    "focusAreas": [],
+    "bio": [],
+    "languages": [
+      "English",
+      "Malayalam"
+    ],
+    "experienceYears": 5,
+    "consultationModes": [
+      "in-person",
+      "teleconsultation",
+      "video-consultation"
+    ],
+    "clinicHours": [
+      {
+        "day": "Monday – Friday",
+        "hours": "9:00 am – 2:00 pm"
+      }
+    ],
+    "publications": [],
+    "portrait": "/images/doctors/dr-vani-k-s.jpeg",
+    "isFounder": false,
+    "placeholder": false,
+    "experienceNote": ""
+  },
+  {
+    "slug": "dr-athira-sureshbabu",
+    "name": "Dr. Athira Sureshbabu",
+    "qualifications": "B.A.M.S | Ayurveda Physician",
+    "role": "Consultant, Ayurveda Physician",
+    "specialities": [
+      "maternity-care",
+      "womens-care"
+    ],
+    "focusAreas": [],
+    "bio": [],
+    "languages": [
+      "English",
+      "Malayalam"
+    ],
+    "experienceYears": 5,
+    "consultationModes": [
+      "in-person",
+      "teleconsultation",
+      "video-consultation"
+    ],
+    "clinicHours": [
+      {
+        "day": "Monday – Friday",
+        "hours": "9:00 am – 2:00 pm"
+      }
+    ],
+    "publications": [],
+    "portrait": "/images/doctors/dr-athira-sureshbabu.jpeg",
+    "isFounder": false,
+    "placeholder": false,
+    "experienceNote": ""
+  },
+  {
+    "slug": "dr-rehna",
+    "name": "Dr. Rehna",
+    "qualifications": "B.A.M.S, D.H.A | Ayurveda Physician",
+    "role": "Consultant, Ayurveda Physician",
+    "specialities": [
+      "maternity-care"
+    ],
+    "focusAreas": [],
+    "bio": [],
+    "languages": [
+      "English",
+      "Malayalam"
+    ],
+    "experienceYears": 5,
+    "consultationModes": [
+      "in-person",
+      "teleconsultation",
+      "video-consultation"
+    ],
+    "clinicHours": [
+      {
+        "day": "Monday – Friday",
+        "hours": "9:00 am – 2:00 pm"
+      }
+    ],
+    "publications": [],
+    "portrait": "/images/doctors/dr-rehna.jpeg",
+    "isFounder": false,
+    "placeholder": false,
+    "experienceNote": ""
+  },
+  {
+    "slug": "lameea-n",
+    "name": "Lameea N.",
+    "qualifications": "B.Sc, M.Sc | Psychologist",
+    "role": "Consultant, Psychologist",
+    "specialities": [
+      "mental-health"
+    ],
+    "focusAreas": [],
+    "bio": [],
+    "languages": [
+      "English",
+      "Malayalam"
+    ],
+    "experienceYears": 5,
+    "consultationModes": [
+      "in-person",
+      "teleconsultation",
+      "video-consultation"
+    ],
+    "clinicHours": [
+      {
+        "day": "Monday – Friday",
+        "hours": "9:00 am – 2:00 pm"
+      }
+    ],
+    "publications": [],
+    "portrait": "/images/doctors/lameea-n.jpeg",
+    "isFounder": false,
+    "placeholder": false,
+    "experienceNote": ""
+  }
+]

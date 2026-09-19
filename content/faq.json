@@ -1,0 +1,37 @@
+{
+  "title": "Frequently Asked Questions",
+  "intro": "The questions we are asked most often. If yours is not here, call us — we would rather answer it properly than have you guess.",
+  "note": "The source document supplies these five questions but no answers. Every answer below is a DRAFT written for clinician review and is flagged `draft: true`. Draft answers show a badge in development. Replace the text and set `draft: false` once a doctor has approved the wording.",
+  "items": [
+    {
+      "id": "ayurveda-in-pregnancy",
+      "question": "Is Ayurveda safe during pregnancy?",
+      "answer": "Classical Ayurveda has a dedicated discipline for pregnancy — Garbhini Paricharya — with month-by-month guidance on diet, routine and gentle therapy. Care during pregnancy is given only after a consultation, and the therapies and medicines used are selected specifically for this stage. Please do not begin any Ayurvedic medicine during pregnancy without speaking to a qualified physician first, including anything bought over the counter.",
+      "draft": true
+    },
+    {
+      "id": "when-postnatal-begins",
+      "question": "When should postnatal care begin?",
+      "answer": "Sutika Paricharya traditionally begins in the days immediately after delivery and continues through the first few months, with the plan adjusted for a vaginal birth or a caesarean recovery. If you are reading this while still pregnant, the useful thing is to speak to us before the birth so that the plan is ready and you are not organising it while recovering.",
+      "draft": true
+    },
+    {
+      "id": "ayurveda-and-pcos",
+      "question": "Can Ayurveda help with PCOS?",
+      "answer": "PCOS is one of the conditions we treat regularly, through a combination of herbal medicine, diet, therapeutic treatment and lifestyle change. What that looks like differs considerably between two people with the same diagnosis, which is why it starts with an assessment rather than a standard protocol. We will be honest with you at the consultation about what to expect and over what period.",
+      "draft": true
+    },
+    {
+      "id": "how-many-sessions",
+      "question": "How many therapy sessions are needed?",
+      "answer": "It depends on the condition, how long it has been present, and how you respond — so we will not quote a number before assessing you. What we will do at the end of your first consultation is give you a written plan with an expected duration, and tell you at each review whether that estimate still holds.",
+      "draft": true
+    },
+    {
+      "id": "counselling-confidential",
+      "question": "Is psychological counselling confidential?",
+      "answer": "Yes. What you discuss in counselling stays between you and your psychologist, and is not shared with family members without your consent. The limited exceptions are the standard ones concerning immediate risk to life, which will be explained to you at your first session.",
+      "draft": true
+    }
+  ]
+}

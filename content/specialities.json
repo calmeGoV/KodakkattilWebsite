@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "paediatric-care",
+    "name": "Paediatric Care",
+    "sanskrit": "Balachikitsa",
+    "sanskritAlt": "Kaumarabhritya",
+    "malayalam": "ബാലചികിത്സ",
+    "icon": "paediatric",
+    "emphasis": "wide",
+    "summary": "The Ayurvedic branch devoted to the health and well-being of infants, children, and adolescents — healthy growth, strong immunity, and steady development, through safe and individualized care.",
+    "services": [
+      "Infant care",
+      "Skin diseases",
+      "Immunity enhancement",
+      "Digestive disorders",
+      "Respiratory disorders",
+      "Developmental disorders",
+      "Ayurvedic child therapies",
+      "Head aches (sinusitis/migraine)",
+      "Parent counselling"
+    ]
+  },
+  {
+    "slug": "maternity-care",
+    "name": "Maternity Care",
+    "sanskrit": "Garbhini & Sutika Paricharya",
+    "malayalam": "ഗർഭിണി പരിചര്യ",
+    "icon": "maternity",
+    "emphasis": "wide",
+    "summary": "Care through the whole arc of motherhood — from preconception and pregnancy to the delicate months after birth, guided by the classical principles of Garbhini Paricharya and Sutika Paricharya.",
+    "groups": [
+      {
+        "title": "Pre-natal care",
+        "services": [
+          "Preconception Care",
+          "Pregnancy Care (Garbhini Paricharya)",
+          "High-risk pregnancy support",
+          "Pregnancy massage",
+          "Diet counselling",
+          "Yoga during pregnancy",
+          "Prenatal education"
+        ]
+      },
+      {
+        "title": "Postnatal Care",
+        "services": [
+          "Sutika Paricharya",
+          "Mother rejuvenation",
+          "Baby massage",
+          "Lactation support",
+          "Postpartum nutrition",
+          "Hormonal balance",
+          "Weight management",
+          "Caesarean recovery",
+          "Pelvic strengthening"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "womens-care",
+    "name": "Holistic Women's Care",
+    "sanskrit": "Stree Roga",
+    "malayalam": "സ്ത്രീ ആരോഗ്യം",
+    "icon": "womens",
+    "emphasis": "narrow",
+    "summary": "Hormonal and gynaecological care across a woman's life, from the first cycle to menopause and beyond.",
+    "services": [
+      "PCOS/PCOD",
+      "Infertility",
+      "Menstrual disorders",
+      "Endometriosis",
+      "Menopause care",
+      "Thyroid support",
+      "Hormonal wellness",
+      "Lifestyle medicine",
+      "Panchakarma for women"
+    ]
+  },
+  {
+    "slug": "mental-health",
+    "name": "Mental Health Care",
+    "sanskrit": "Manas Roga",
+    "malayalam": "മാനസികാരോഗ്യം",
+    "icon": "mental-health",
+    "emphasis": "narrow",
+    "summary": "Ayurvedic principles and modern psychological practice together, for stress, anxiety, low mood, sleep, and the emotional weight of new parenthood.",
+    "services": [
+      "Anxiety",
+      "Depression",
+      "Stress management",
+      "Postpartum depression support",
+      "Sleep disorders",
+      "Relationship counselling",
+      "Parenting counselling",
+      "Mindfulness",
+      "Yoga & meditation",
+      "Psychological assessment",
+      "Individual counselling"
+    ]
+  }
+]

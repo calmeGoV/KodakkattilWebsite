@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-labelledby="tdoctors2">
+  <title id="tdoctors2">Placeholder — doctors</title>
+  <defs>
+    <linearGradient id="bgdoctors2" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="grdoctors2">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="1200" height="900" fill="url(#bgdoctors2)"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M420 440.5263157894737q180 246.3157894736842 360 0"/>
+    <path d="M372.63157894736844 440.5263157894737h454.7368421052631"/>
+    <path d="M505.2631578947369 634.7368421052631h189.4736842105263"/>
+    <path d="M708.9473684210526 369.47368421052636l137.36842105263156 -246.3157894736842"/>
+    <path d="M817.8947368421052 146.84210526315792a42.63157894736842 42.63157894736842 0 1 1 61.57894736842105 33.1578947368421"/>
+  </g>
+  <rect x="8" y="8" width="1184" height="884" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="1200" height="900" filter="url(#grdoctors2)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

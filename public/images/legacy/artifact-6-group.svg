@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" width="960" height="660" role="img" aria-labelledby="ta5">
+  <title id="ta5">Placeholder — archival group photograph</title>
+  <defs>
+    <linearGradient id="bga5" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="gra5">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="960" height="660" fill="url(#bga5)"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="313.2631578947368" cy="253.57894736842104" r="52.10526315789474"/>
+    <path d="M209.05263157894734 448.10526315789474q0 -100.73684210526316 104.21052631578948 -100.73684210526316t104.21052631578948 100.73684210526316"/>
+    <circle cx="486.94736842105266" cy="215.36842105263156" r="59.05263157894737"/>
+    <path d="M372.3157894736842 448.10526315789474q0 -114.63157894736842 114.63157894736842 -114.63157894736842t114.63157894736842 114.63157894736842"/>
+    <circle cx="660.6315789473684" cy="253.57894736842104" r="52.10526315789474"/>
+    <path d="M556.421052631579 448.10526315789474q0 -100.73684210526316 104.21052631578948 -100.73684210526316t104.21052631578948 100.73684210526316"/>
+  </g>
+  <rect x="8" y="8" width="944" height="644" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="960" height="660" filter="url(#gra5)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

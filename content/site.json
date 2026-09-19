@@ -1,0 +1,45 @@
+{
+  "name": "Kodakkattil",
+  "nameFull": "Kodakkattil Ayurveda Hospital",
+  "nameNote": "Working brand name taken from the project directory. Replace `nameFull` with the registered hospital name before launch.",
+  "tagline": "Ancient Wisdom. Modern Care.",
+  "strapline": "150 Years of Tradition. Generations of Trust. A Lifetime of Holistic Care.",
+  "descriptionShort": "A 150-year Ayurvedic family practice in Kerala specialising in Balachikitsa, pre and postnatal care, women's wellness and mental health.",
+  "founded": "1870",
+  "contact": {
+    "phonePrimary": "+91 90724 49660",
+    "phoneEmergency": "+91 90724 49660",
+    "whatsapp": "+91 90724 49660",
+    "email": "kodakkattil1870@gmail.com",
+    "mapsUrl": "https://maps.google.com/?q=Kodakkattil+Ayurvedics+Thuvanur+Kechery+Thrissur"
+  },
+  "address": {
+    "street": "Kodakkattil Ayurvedics, Thuvanur, Kechery P.O",
+    "locality": "Thrissur",
+    "region": "Kerala",
+    "postalCode": "680501",
+    "country": "IN"
+  },
+  "hours": [
+    {
+      "day": "Monday – Saturday",
+      "hours": "8:00 am – 7:00 pm"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9:00 am – 1:00 pm"
+    }
+  ],
+  "social": {
+    "instagram": "https://instagram.com/",
+    "facebook": "https://facebook.com/",
+    "youtube": "https://youtube.com/"
+  },
+  "googleReviews": {
+    "rating": "4.8",
+    "count": "312",
+    "url": "https://maps.google.com/"
+  },
+  "disclaimer": "The information on this site is educational and is not a substitute for consulting a qualified physician. Please speak with one of our doctors before beginning any treatment.",
+  "dummyNote": "DUMMY CONTENT: nameFull, founded, all contact details, address, hours, social links and Google review figures are invented placeholders. Replace every one before launch. Run `npm run check:content` to list them."
+}

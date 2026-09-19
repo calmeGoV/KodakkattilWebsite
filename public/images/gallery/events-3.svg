@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-labelledby="tevents2">
+  <title id="tevents2">Placeholder — events</title>
+  <defs>
+    <linearGradient id="bgevents2" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="grevents2">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="1200" height="900" fill="url(#bgevents2)"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="372.63157894736844" cy="345.7894736842105" r="71.05263157894737"/>
+    <path d="M230.5263157894737 611.0526315789473q0 -137.36842105263156 142.10526315789474 -137.36842105263156t142.10526315789474 137.36842105263156"/>
+    <circle cx="609.4736842105264" cy="293.68421052631584" r="80.52631578947367"/>
+    <path d="M453.1578947368421 611.0526315789473q0 -156.3157894736842 156.3157894736842 -156.3157894736842t156.3157894736842 156.3157894736842"/>
+    <circle cx="846.3157894736842" cy="345.7894736842105" r="71.05263157894737"/>
+    <path d="M704.2105263157895 611.0526315789473q0 -137.36842105263156 142.10526315789474 -137.36842105263156t142.10526315789474 137.36842105263156"/>
+  </g>
+  <rect x="8" y="8" width="1184" height="884" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="1200" height="900" filter="url(#grevents2)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

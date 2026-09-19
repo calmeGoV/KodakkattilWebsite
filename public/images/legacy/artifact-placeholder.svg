@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" width="640" height="440" role="img" aria-labelledby="art-t">
+  <title id="art-t">Archival image not yet supplied</title>
+  <defs>
+    <linearGradient id="ag" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0E2118"/>
+    </linearGradient>
+    <filter id="ag-grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+  </defs>
+  <rect width="640" height="440" fill="url(#ag)"/>
+  <!-- stacked palm leaves, bound through a cord hole: a thaliyola -->
+  <g stroke="#B08C4F" stroke-opacity="0.55" fill="none" stroke-width="1.5">
+    <rect x="70" y="132" width="500" height="42" rx="4"/>
+    <rect x="70" y="186" width="500" height="42" rx="4"/>
+    <rect x="70" y="240" width="500" height="42" rx="4"/>
+    <rect x="70" y="294" width="500" height="42" rx="4"/>
+  </g>
+  <g stroke="#D8BC85" stroke-opacity="0.30" stroke-width="1.5" stroke-linecap="round">
+    <path d="M110 153h150M300 153h90M110 207h210M360 207h70M110 261h120M270 261h180M110 315h250"/>
+  </g>
+  <!-- the binding cord -->
+  <circle cx="520" cy="153" r="6" fill="none" stroke="#D8BC85" stroke-opacity="0.7"/>
+  <circle cx="520" cy="207" r="6" fill="none" stroke="#D8BC85" stroke-opacity="0.7"/>
+  <circle cx="520" cy="261" r="6" fill="none" stroke="#D8BC85" stroke-opacity="0.7"/>
+  <circle cx="520" cy="315" r="6" fill="none" stroke="#D8BC85" stroke-opacity="0.7"/>
+  <path d="M520 100c34 40 34 268 0 308" stroke="#B08C4F" stroke-opacity="0.6" stroke-width="1.5" fill="none"/>
+  <rect width="640" height="440" filter="url(#ag-grain)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

@@ -1,0 +1,126 @@
+{
+  "hero": {
+    "eyebrow": "Thrissur, Kerala · Since 1870",
+    "tagline": "Ancient Wisdom. Modern Care.",
+    "heading": "150+ years of caring for mothers and children.",
+    "subheading": "An Ayurvedic family practice in Kerala, in its fifth generation — specialising in Balachikitsa, pre and postnatal care, women's wellness and mental health.",
+    "primaryCta": {
+      "label": "Book a consultation",
+      "href": "/book"
+    },
+    "secondaryCta": {
+      "label": "Call us",
+      "href": "tel:+919072449660"
+    },
+    "image": "/images/hero/mother-child-hero-1600.webp",
+    "imageAlt": "A mother holding her infant during a consultation at the hospital",
+    "verticalLegend": "Vaidyasala · est. 1870",
+    "imageNarrow": "/images/hero/mother-child-hero-narrow-828.webp"
+  },
+  "intro": {
+    "title": "A Tradition of Healing, A Commitment to Holistic Care",
+    "body": "With over 150 years of trusted Ayurvedic heritage, we provide compassionate, holistic healthcare that nurtures the body, mind, and spirit. Our expertise in Balachikitsa (paediatric care), postnatal care, women's wellness, and mental health support allows us to offer personalized treatments rooted in authentic Ayurvedic principles. By combining timeless wisdom with patient-centred care, we help individuals and families achieve lasting health, balance, and well-being at every stage of life."
+  },
+  "trustBand": {
+    "stats": [
+      {
+        "id": "years",
+        "value": 150,
+        "suffix": "+",
+        "label": "Years of practice",
+        "verified": true
+      },
+      {
+        "id": "generations",
+        "value": 5,
+        "suffix": "",
+        "label": "Generations",
+        "verified": true
+      },
+      {
+        "id": "families",
+        "value": 100000,
+        "suffix": "+",
+        "label": "Families treated",
+        "verified": true,
+        "display": "1 lakh+"
+      },
+      {
+        "id": "specialities",
+        "value": 4,
+        "suffix": "",
+        "label": "Specialities",
+        "verified": true
+      }
+    ],
+    "verificationNote": "`verified: false` stats render as a visible TODO_STAT chip rather than a number. Supply the real figure and set `verified: true`. Set `display` to override the rendered text (e.g. \"1 lakh+\"), which also skips the count-up."
+  },
+  "sections": {
+    "pillars": {
+      "kicker": "Our Specialities",
+      "title": "Four kinds of care, practised deeply rather than broadly.",
+      "cta": {
+        "label": "All specialities",
+        "href": "/specialities"
+      }
+    },
+    "legacy": {
+      "cta": {
+        "label": "Walk the full lineage",
+        "href": "/about/legacy"
+      }
+    },
+    "founders": {
+      "kicker": "A note from the founders",
+      "cta": {
+        "label": "Meet the team",
+        "href": "/doctors"
+      }
+    },
+    "doctors": {
+      "kicker": "Meet Our Doctors",
+      "title": "The people you will actually sit with.",
+      "cta": {
+        "label": "All doctors",
+        "href": "/doctors"
+      }
+    },
+    "testimonials": {
+      "kicker": "Voices of Trust",
+      "cta": {
+        "label": "Read all stories",
+        "href": "/stories"
+      }
+    },
+    "treatments": {
+      "kicker": "Treatments & Therapies",
+      "title": "Classical therapies, prepared the way they always have been here.",
+      "cta": {
+        "label": "All treatments",
+        "href": "/treatments"
+      }
+    },
+    "journey": {
+      "kicker": "Patient Journey",
+      "cta": {
+        "label": "See the full journey",
+        "href": "/patient-journey"
+      }
+    },
+    "knowledge": {
+      "kicker": "Knowledge Hub",
+      "title": "Reading for parents and mothers.",
+      "cta": {
+        "label": "All articles",
+        "href": "/blog"
+      }
+    },
+    "faq": {
+      "kicker": "Questions",
+      "cta": {
+        "label": "All questions",
+        "href": "/faq"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" width="960" height="660" role="img" aria-labelledby="ta0">
+  <title id="ta0">Placeholder — archival manuscript</title>
+  <defs>
+    <linearGradient id="bga0" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="gra0">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="960" height="660" fill="url(#bga0)"/>
+  <g fill="none" stroke="#B08C4F" stroke-opacity="0.6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="150" y="163.26315789473682" width="660" height="62.526315789473685" rx="4"/>
+    <rect x="150" y="253.57894736842107" width="660" height="62.526315789473685" rx="4"/>
+    <rect x="150" y="343.89473684210526" width="660" height="62.526315789473685" rx="4"/>
+    <rect x="150" y="434.21052631578954" width="660" height="62.526315789473685" rx="4"/>
+    <circle cx="723.1578947368421" cy="194.52631578947367" r="8.68421052631579"/>
+    <circle cx="723.1578947368421" cy="284.8421052631579" r="8.68421052631579"/>
+    <circle cx="723.1578947368421" cy="375.1578947368421" r="8.68421052631579"/>
+    <circle cx="723.1578947368421" cy="465.47368421052636" r="8.68421052631579"/>
+  </g>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.35" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M202.10526315789474 194.52631578947367h208.42105263157896M202.10526315789474 284.8421052631579h312.63157894736844M202.10526315789474 375.1578947368421h166.73684210526318M202.10526315789474 465.47368421052636h364.7368421052632"/>
+    <path d="M723.1578947368421 135.4736842105263c45.15789473684211 59.05263157894737 45.15789473684211 330 0 389.0526315789474"/>
+  </g>
+  <rect x="8" y="8" width="944" height="644" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="960" height="660" filter="url(#gra0)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-labelledby="tp3">
+  <title id="tp3">Placeholder portrait — photograph not yet supplied</title>
+  <defs>
+    <linearGradient id="bgp3" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="grp3">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="400" height="500" fill="url(#bgp3)"/>
+  <line x1="0" y1="376" x2="400" y2="376" stroke="#B08C4F" stroke-opacity="0.22" stroke-width="1"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="200" cy="186" r="60"/>
+    <path d="M76 430q0-106.64 124 -106.64t124 106.64"/>
+    <path d="M132 338q68 34 136 0"/><path d="M150 372q50 22 100 0"/>
+  </g>
+  <g fill="none" stroke="#B08C4F" stroke-opacity="0.22" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="200" cy="186" r="88"/>
+  </g>
+  <rect x="8" y="8" width="384" height="484" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="400" height="500" filter="url(#grp3)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

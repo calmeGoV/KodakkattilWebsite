@@ -1,0 +1,118 @@
+{
+  "title": "The Ancestral Line",
+  "kicker": "Five generations, one unbroken practice",
+  "intro": "Most clinics claim heritage in a paragraph. Ours can be walked through, generation by generation — the vaidyans who kept it, what each of them was known for, and the manuscripts, formulations and training that were handed down intact.",
+  "outro": "The practice is now in its fifth generation, and still a family one.",
+  "note": "DUMMY CONTENT. Every name, date and contribution below is invented placeholder copy, kept so the page can be designed and reviewed. Each entry carries \"placeholder\": true and renders a development badge. Replace the text, drop scans into /public/images/legacy, then set \"placeholder\": false — the badge disappears and no component changes are needed. The two Sanskrit verses ARE genuine classical citations (Charaka Samhita and Sushruta Samhita) and may be kept.",
+  "generations": [
+    {
+      "order": 1,
+      "era": "c. 1870 – 1908",
+      "name": "Kodakkattil Kuttan Vaidyar",
+      "title": "Founding Vaidyan",
+      "contribution": "Trained in the gurukula tradition under his maternal uncle before setting up a single consulting room attached to the family home. He treated the surrounding villages largely without payment, keeping a daily register of every patient seen. That register is the earliest object the family still holds.",
+      "artifact": "The founding prescription register, written on palm leaf and bound with cord",
+      "image": null,
+      "portrait": null,
+      "verse": {
+        "text": "प्रयोजनं चास्य स्वस्थस्य स्वास्थ्यरक्षणम् आतुरस्य विकारप्रशमनं च",
+        "transliteration": "prayojanaṁ cāsya svasthasya svāsthyarakṣaṇam āturasya vikāraprashamanaṁ ca",
+        "translation": "The purpose of this science is to protect the health of the healthy and to relieve the disorders of the sick.",
+        "source": "Charaka Samhita, Sutrasthana 30.26"
+      },
+      "preserved": [
+        "The daily patient register, unbroken from the first year",
+        "Twelve oil formulations recorded in his own hand"
+      ],
+      "placeholder": true
+    },
+    {
+      "order": 2,
+      "era": "c. 1905 – 1946",
+      "name": "Kodakkattil Shankaran Vaidyar",
+      "title": "Vaidyan and Builder",
+      "contribution": "Raised the first purpose-built treatment rooms beside the family house, with a separate wing so that women could be treated in privacy — unusual for the district at the time. He formalised the preparation of medicines on site rather than buying them in.",
+      "artifact": "The original treatment wing, photographed shortly after completion",
+      "image": null,
+      "portrait": null,
+      "verse": null,
+      "preserved": [
+        "The on-site medicine kitchen and its working method",
+        "The practice of a separate consulting space for women"
+      ],
+      "placeholder": true
+    },
+    {
+      "order": 3,
+      "era": "c. 1943 – 1981",
+      "name": "Kodakkattil Parameswaran Vaidyar",
+      "title": "Vaidyan and Teacher",
+      "contribution": "Took in students from outside the family for the first time, teaching from the household's own copies of the classical texts. He is remembered locally for treating through two difficult monsoon seasons when the nearest hospital was a day's travel away.",
+      "artifact": "Annotated palm-leaf copies of the Ashtanga Hridayam, in the family's hand",
+      "image": null,
+      "portrait": null,
+      "verse": {
+        "text": "समदोषः समाग्निश्च समधातुमलक्रियः। प्रसन्नात्मेन्द्रियमनाः स्वस्थ इत्यभिधीयते॥",
+        "transliteration": "samadoṣaḥ samāgniśca samadhātumalakriyaḥ | prasannātmendriyamanāḥ svastha ityabhidhīyate ||",
+        "translation": "One whose doshas, digestive fire, tissues and elimination are in balance, and whose self, senses and mind are at ease — that person is called healthy.",
+        "source": "Sushruta Samhita, Sutrasthana 15.41"
+      },
+      "preserved": [
+        "Annotated copies of the Ashtanga Hridayam",
+        "The gurukula method of training, extended beyond the family"
+      ],
+      "placeholder": true
+    },
+    {
+      "order": 4,
+      "era": "c. 1978 – 2016",
+      "name": "Kodakkattil Aravindakshan Vaidyar",
+      "title": "Vaidyan, Balachikitsa",
+      "contribution": "The generation in which paediatric care became the family's defining speciality. He devoted the practice increasingly to infants and children, and began keeping detailed growth and treatment records that are still referenced today. Mothers travelled from neighbouring districts to see him.",
+      "artifact": "Children's case books, kept continuously for close to four decades",
+      "image": null,
+      "portrait": null,
+      "verse": null,
+      "preserved": [
+        "Nearly four decades of paediatric case records",
+        "The children's formulations still prepared to his method"
+      ],
+      "placeholder": true
+    },
+    {
+      "order": 5,
+      "era": "2016 – present",
+      "name": "Dr. Vishnu K S",
+      "title": "The Present Generation",
+      "contribution": "Today, under his guidance, the practice carries its legacy of Balachikitsa and medicine preparation forward, while introducing — for the first time in its history — a new focus on pre and postnatal care and dedicated psychological care, fully integrated with the Ayurvedic work.",
+      "artifact": "Modern paediatric diagnostic tools, bringing the family's classical Balachikitsa into contemporary practice",
+      "image": null,
+      "portrait": "/images/legacy/dr-vishnu-k-s.jpg",
+      "verse": null,
+      "preserved": [
+        "Every register, case book and manuscript listed above",
+        "The training, now passed on formally as well as within the family"
+      ],
+      "isPresent": true,
+      "placeholder": true
+    }
+  ],
+  "preservedThread": {
+    "title": "What Was Preserved",
+    "intro": "A lineage is only as real as what survives it. These are the things that were actually handed down.",
+    "items": [
+      {
+        "kind": "Manuscripts",
+        "body": "The founding prescription register, annotated palm-leaf copies of the Ashtanga Hridayam, and close to four decades of paediatric case books — all still held by the family."
+      },
+      {
+        "kind": "Formulations",
+        "body": "Twelve oil formulations recorded in the founder's own hand, and the children's preparations refined in the fourth generation, still made on site to the original method."
+      },
+      {
+        "kind": "Training",
+        "body": "Each generation was taught by the one before it, in the household, before any of them sat a formal examination. That apprenticeship still runs alongside the degrees."
+      }
+    ]
+  }
+}

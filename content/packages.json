@@ -1,0 +1,156 @@
+{
+  "title": "Programs & Packages",
+  "intro": "Structured programmes built around a stage of life rather than a single complaint.",
+  "note": "DUMMY CONTENT — durations and inclusions below are invented for review. Pricing is deliberately omitted. Replace with the clinic’s real programme details before launch.",
+  "items": [
+    {
+      "slug": "pregnancy-care",
+      "name": "Pregnancy Care Package",
+      "speciality": "maternity-care",
+      "duration": "Across the pregnancy",
+      "includes": [
+        "Monthly consultation",
+        "Garbhini Paricharya guidance",
+        "Diet and nutrition plan",
+        "Pregnancy-safe therapies",
+        "Yoga for pregnancy",
+        "Prenatal education session"
+      ],
+      "summary": "From the first trimester to term: monthly consultation, month-appropriate diet, gentle therapy where indicated, and prenatal education for both parents.",
+      "price": "TODO_PRICE",
+      "placeholder": true
+    },
+    {
+      "slug": "postnatal-recovery",
+      "name": "Postnatal Recovery Package",
+      "speciality": "maternity-care",
+      "duration": "6 – 12 weeks",
+      "includes": [
+        "Daily or alternate-day therapy",
+        "Abhyanga and bandaging",
+        "Lactation support",
+        "Postpartum nutrition plan",
+        "Pelvic strengthening",
+        "Review consultations"
+      ],
+      "summary": "Structured Sutika Paricharya from the days after delivery, adjusted for a vaginal birth or caesarean recovery.",
+      "price": "TODO_PRICE",
+      "placeholder": true
+    },
+    {
+      "slug": "mother-and-baby",
+      "name": "Mother & Baby Package",
+      "speciality": "maternity-care",
+      "duration": "6 weeks",
+      "includes": [
+        "Mother’s recovery therapies",
+        "Infant massage",
+        "Feeding and sleep guidance",
+        "Paediatric review",
+        "Mother-and-baby suite"
+      ],
+      "summary": "Mother and infant treated together in the same session, in a suite arranged around the feeding schedule.",
+      "price": "TODO_PRICE",
+      "placeholder": true
+    },
+    {
+      "slug": "womens-wellness",
+      "name": "Women's Wellness Package",
+      "speciality": "womens-care",
+      "duration": "4 – 8 weeks",
+      "includes": [
+        "Full assessment",
+        "Panchakarma where indicated",
+        "Herbal medicines",
+        "Diet and routine plan",
+        "Follow-up review"
+      ],
+      "summary": "A general reset for women who are not unwell but not right — sleep, energy, cycle, digestion.",
+      "price": "TODO_PRICE",
+      "placeholder": true
+    },
+    {
+      "slug": "pcos-program",
+      "name": "PCOS Program",
+      "speciality": "womens-care",
+      "duration": "3 – 9 months",
+      "includes": [
+        "Detailed assessment",
+        "Herbal medicines",
+        "Udvarthanam and related therapies",
+        "Diet and exercise plan",
+        "Monthly review",
+        "Psychological support where wanted"
+      ],
+      "summary": "A long-horizon programme combining internal medicine, therapy, diet and lifestyle change, reviewed monthly.",
+      "price": "TODO_PRICE",
+      "placeholder": true
+    },
+    {
+      "slug": "fertility-fit",
+      "name": "Fertility Fit Programme",
+      "speciality": "womens-care",
+      "duration": "3 – 6 months",
+      "includes": [
+        "Assessment for both partners",
+        "Preconception detox where indicated",
+        "Herbal medicines",
+        "Diet and lifestyle plan",
+        "Cycle tracking guidance"
+      ],
+      "summary": "Preconception preparation for one or both partners, focused on readiness rather than intervention.",
+      "price": "TODO_PRICE",
+      "placeholder": true
+    },
+    {
+      "slug": "child-development",
+      "name": "Child Development Program",
+      "speciality": "paediatric-care",
+      "duration": "6 – 12 months",
+      "includes": [
+        "Paediatric assessment",
+        "Age-appropriate therapies",
+        "Herbal medicines",
+        "Nutrition plan",
+        "Growth monitoring",
+        "Parent counselling"
+      ],
+      "summary": "For children needing sustained support with growth, immunity, digestion or developmental milestones.",
+      "price": "TODO_PRICE",
+      "placeholder": true
+    },
+    {
+      "slug": "mental-wellness",
+      "name": "Mental Wellness Program",
+      "speciality": "mental-health",
+      "duration": "8 – 16 weeks",
+      "includes": [
+        "Psychological assessment",
+        "Individual counselling",
+        "Shirodhara and related therapies",
+        "Sleep and routine plan",
+        "Mindfulness practice",
+        "Review sessions"
+      ],
+      "summary": "Psychological care and Ayurvedic therapy run together rather than in parallel.",
+      "price": "TODO_PRICE",
+      "placeholder": true
+    },
+    {
+      "slug": "seasonal-detox",
+      "name": "Seasonal Detox Program",
+      "speciality": "womens-care",
+      "duration": "7 – 21 days",
+      "includes": [
+        "Assessment",
+        "Preparatory therapies",
+        "Panchakarma procedures",
+        "Rebuilding diet",
+        "Post-programme routine"
+      ],
+      "summary": "Ritucharya — the classical seasonal cleanse, timed to the change of season.",
+      "price": "TODO_PRICE",
+      "placeholder": true
+    }
+  ]
+}

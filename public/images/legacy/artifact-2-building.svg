@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" width="960" height="660" role="img" aria-labelledby="ta1">
+  <title id="ta1">Placeholder — the original building</title>
+  <defs>
+    <linearGradient id="bga1" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="gra1">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="960" height="660" fill="url(#bga1)"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M219.4736842105263 347.36842105263156L480 191.05263157894737l260.5263157894737 156.31578947368422"/>
+    <path d="M250.73684210526315 347.36842105263156v149.3684210526316h458.5263157894737v-149.3684210526316"/>
+    <path d="M313.2631578947368 496.7368421052632v-107.6842105263158M424.42105263157896 496.7368421052632v-107.6842105263158M535.578947368421 496.7368421052632v-107.6842105263158M646.7368421052631 496.7368421052632v-107.6842105263158"/>
+    <path d="M202.10526315789474 496.7368421052632h555.7894736842105M174.31578947368422 524.5263157894738h611.3684210526316"/>
+    <path d="M448.7368421052632 496.7368421052632v-69.47368421052632h62.526315789473685v69.47368421052632"/>
+  </g>
+  <rect x="8" y="8" width="944" height="644" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="960" height="660" filter="url(#gra1)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

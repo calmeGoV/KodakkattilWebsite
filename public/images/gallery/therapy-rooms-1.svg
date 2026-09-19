@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-labelledby="ttherapy-rooms0">
+  <title id="ttherapy-rooms0">Placeholder — therapy rooms</title>
+  <defs>
+    <linearGradient id="bgtherapy-rooms0" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#1A3A2B"/>
+      <stop offset="100%" stop-color="#0D2018"/>
+    </linearGradient>
+    <filter id="grtherapy-rooms0">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="1200" height="900" fill="url(#bgtherapy-rooms0)"/>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M197.36842105263162 450q402.6315789473684 108.94736842105263 805.2631578947368 0"/>
+    <path d="M197.36842105263162 450q18.94736842105263 -71.05263157894737 80.52631578947367 -71.05263157894737h644.2105263157894q61.57894736842105 0 80.52631578947367 71.05263157894737"/>
+    <path d="M315.7894736842105 521.0526315789474v123.1578947368421M884.2105263157895 521.0526315789474v123.1578947368421"/>
+    <path d="M244.73684210526318 644.2105263157895h142.10526315789474M813.1578947368421 644.2105263157895h142.10526315789474"/>
+    <circle cx="926.8421052631579" cy="265.2631578947369" r="37.89473684210526"/>
+    <path d="M926.8421052631579 303.1578947368421v75.78947368421052"/>
+  </g>
+  <rect x="8" y="8" width="1184" height="884" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="1200" height="900" filter="url(#grtherapy-rooms0)" opacity="0.06" style="mix-blend-mode:screen"/>
+</svg>

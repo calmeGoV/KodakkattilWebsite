@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="tog1">
+  <title id="tog1">Placeholder — social preview</title>
+  <defs>
+    <linearGradient id="bgog1" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#EEEFE7"/>
+      <stop offset="100%" stop-color="#E3E5DA"/>
+    </linearGradient>
+    <filter id="grog1">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter></defs>
+  <rect width="1200" height="630" fill="url(#bgog1)"/>
+  <g fill="none" stroke="#B08C4F" stroke-opacity="0.6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="285" y="155.8421052631579" width="630" height="59.684210526315795" rx="4"/>
+    <rect x="285" y="242.05263157894737" width="630" height="59.684210526315795" rx="4"/>
+    <rect x="285" y="328.2631578947368" width="630" height="59.684210526315795" rx="4"/>
+    <rect x="285" y="414.4736842105263" width="630" height="59.684210526315795" rx="4"/>
+    <circle cx="832.1052631578948" cy="185.68421052631578" r="8.289473684210527"/>
+    <circle cx="832.1052631578948" cy="271.89473684210526" r="8.289473684210527"/>
+    <circle cx="832.1052631578948" cy="358.10526315789474" r="8.289473684210527"/>
+    <circle cx="832.1052631578948" cy="444.3157894736842" r="8.289473684210527"/>
+  </g>
+  <g fill="none" stroke="#D8BC85" stroke-opacity="0.35" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M334.7368421052631 185.68421052631578h198.94736842105263M334.7368421052631 271.89473684210526h298.42105263157896M334.7368421052631 358.10526315789474h159.1578947368421M334.7368421052631 444.3157894736842h348.15789473684214"/>
+    <path d="M832.1052631578948 129.31578947368422c43.10526315789474 56.36842105263158 43.10526315789474 315 0 371.36842105263156"/>
+  </g>
+  <rect x="8" y="8" width="1184" height="614" fill="none" stroke="#B08C4F" stroke-opacity="0.28" stroke-width="1"/>
+  <rect width="1200" height="630" filter="url(#grog1)" opacity="0.05" style="mix-blend-mode:multiply"/>
+</svg>

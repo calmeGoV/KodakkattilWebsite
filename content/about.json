@@ -1,0 +1,144 @@
+{
+  "story": {
+    "title": "Our Story",
+    "paragraphs": [
+      "For over 150 years, our hospital has been a trusted guardian of authentic Ayurvedic healing, carrying forward a rich legacy that has been lovingly preserved through generations. Rooted in the timeless wisdom of Ayurveda, our journey began with a simple yet profound purpose—to promote health, restore balance, and care for every individual with compassion and dedication.",
+      "What started as a family tradition has grown into a centre of excellence, where ancient Ayurvedic knowledge is thoughtfully combined with personalized, patient-centred care. While our heritage remains our greatest strength, we continue to embrace evolving healthcare needs without compromising the principles that have guided us for generations.",
+      "We are especially renowned for our expertise in Balachikitsa, the Ayurvedic branch dedicated to the health and well-being of infants, children, and adolescents. We believe that a healthy future begins with a healthy childhood, and our treatments focus on nurturing children's physical, emotional, and developmental well-being through safe, natural, and holistic care.",
+      "Our commitment to mothers is equally profound. Through our specialized postnatal care, we support women during one of life's most transformative journeys. Guided by the principles of Sutika Paricharya, our therapies help restore strength, promote healing, enhance lactation, and support the physical and emotional recovery of new mothers, ensuring that both mother and baby receive the care they deserve.",
+      "Recognizing that true health extends beyond the body, we also provide compassionate mental health support. By integrating Ayurvedic principles with psychological well-being, we help individuals manage stress, anxiety, emotional challenges, and lifestyle-related concerns, fostering harmony between the mind, body, and spirit.",
+      "For us, every patient is more than a diagnosis—they are a valued member of our extended family. We take the time to listen, understand, and create individualized treatment plans that honour each person's unique needs and life journey.",
+      "Today, after more than a century and a half of dedicated service, we remain committed to preserving the healing traditions entrusted to us while continuing to provide holistic, compassionate, and evidence-informed Ayurvedic care for generations to come."
+    ],
+    "strapline": "150 Years of Tradition. Generations of Trust. A Lifetime of Holistic Care."
+  },
+  "vision": {
+    "title": "Vision",
+    "statement": "To inspire healthier generations through authentic Ayurveda, compassionate care, and a legacy of healing that has flourished for over 150 years."
+  },
+  "mission": {
+    "title": "Mission",
+    "statement": "To preserve the timeless wisdom of Ayurveda while providing personalized, holistic care for children, mothers, women, and individuals seeking mental well-being—delivering excellence, compassion, and wellness at every stage of life."
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us?",
+    "intro": "At our hospital, healing is more than a treatment—it's a tradition built on trust, compassion, and over 150 years of Ayurvedic excellence. We are dedicated to providing holistic, patient-centred care that supports every stage of life with authenticity and expertise.",
+    "reasons": [
+      {
+        "title": "150 Years of Trusted Ayurvedic Heritage",
+        "body": "With a legacy spanning over a century and a half, we continue to uphold the timeless principles of Ayurveda while meeting the healthcare needs of modern families."
+      },
+      {
+        "title": "Expertise in Balachikitsa",
+        "body": "Our specialized paediatric Ayurvedic care focuses on the healthy growth, immunity, and overall well-being of infants, children, and adolescents through safe, natural, and individualized treatments."
+      },
+      {
+        "title": "Comprehensive Postnatal Care",
+        "body": "We offer traditional Ayurvedic postnatal therapies designed to restore the mother's strength, promote recovery, support lactation, and ensure the well-being of both mother and baby."
+      },
+      {
+        "title": "Holistic Mental Health Support",
+        "body": "We believe that true wellness begins with a healthy mind. Our compassionate approach addresses stress, anxiety, emotional well-being, and lifestyle challenges through personalized Ayurvedic therapies and psychological support."
+      },
+      {
+        "title": "Personalized Treatment Plans",
+        "body": "Every individual is unique. We carefully assess each patient's health, lifestyle, and constitution to develop customized treatment plans that promote lasting wellness."
+      },
+      {
+        "title": "Compassionate, Family-Centred Care",
+        "body": "Our patients are treated like family. We listen with empathy, respect every individual's journey, and provide care in a warm, supportive environment."
+      },
+      {
+        "title": "Authentic Ayurvedic Therapies",
+        "body": "Our treatments are rooted in classical Ayurvedic principles, using time-tested therapies, herbal medicines, therapeutic diets, and lifestyle guidance to restore balance naturally."
+      },
+      {
+        "title": "Experienced and Dedicated Team",
+        "body": "Our skilled physicians, therapists, psychologists, and healthcare professionals work together to provide integrated, high-quality care with professionalism and compassion."
+      },
+      {
+        "title": "Focus on Prevention and Long-Term Wellness",
+        "body": "We don't just treat illness—we help prevent it. Through health education, nutrition, yoga, and lifestyle counselling, we empower individuals and families to enjoy healthier, more balanced lives."
+      },
+      {
+        "title": "A Legacy of Trust Across Generations",
+        "body": "For generations, families have entrusted us with their health. That enduring confidence inspires us to continue delivering exceptional Ayurvedic care with integrity, excellence, and compassion."
+      }
+    ]
+  },
+  "philosophy": {
+    "title": "Our Ayurveda Philosophy",
+    "paragraphs": [
+      "At our hospital, Ayurveda is more than a system of medicine—it is a philosophy of living that nurtures harmony between the body, mind, and spirit. Guided by over 150 years of healing tradition, we believe that true health is achieved not merely by treating disease, but by restoring the body's natural balance and supporting its innate ability to heal.",
+      "Rooted in the timeless wisdom of the ancient Ayurvedic texts, our approach recognizes that every individual is unique. We therefore provide personalized care based on each person's Prakriti (body constitution), lifestyle, age, environment, and health needs. Rather than offering one-size-fits-all treatments, we focus on understanding the root cause of illness and creating individualized treatment plans.",
+      "Our philosophy emphasizes prevention as much as cure. Through balanced nutrition, herbal medicine, therapeutic treatments, yoga, meditation, healthy daily routines, and mindful living, we help our patients achieve lasting wellness and improved quality of life.",
+      "We are especially committed to caring for children, mothers, women, and individuals seeking mental well-being. By integrating authentic Ayurvedic therapies with compassionate care, we support healthy childhood development, safe motherhood, postnatal recovery, emotional resilience, and lifelong wellness."
+    ],
+    "principlesIntro": "Every treatment we offer is guided by four enduring principles:",
+    "principles": [
+      {
+        "title": "Heal the Root Cause",
+        "body": "We seek to identify and address the underlying cause of illness rather than simply relieving symptoms."
+      },
+      {
+        "title": "Treat Every Person as Unique",
+        "body": "Personalized care is at the heart of everything we do."
+      },
+      {
+        "title": "Promote Prevention and Balance",
+        "body": "We encourage healthy habits that protect and sustain long-term well-being."
+      },
+      {
+        "title": "Care with Compassion",
+        "body": "Healing flourishes in an environment of empathy, respect, and trust."
+      }
+    ],
+    "closing": "For more than a century and a half, these principles have shaped our practice and strengthened the trust placed in us by generations of families. We remain dedicated to preserving the authentic wisdom of Ayurveda while helping every patient experience a healthier, happier, and more balanced life."
+  },
+  "values": {
+    "title": "Our Values",
+    "intro": "For over 150 years, our values have been the foundation of our healing journey. They guide every consultation, every treatment, and every relationship we build with our patients and the community.",
+    "items": [
+      {
+        "title": "Authenticity",
+        "body": "We remain true to the timeless principles of classical Ayurveda, preserving generations of traditional knowledge while delivering care with integrity and responsibility."
+      },
+      {
+        "title": "Compassion",
+        "body": "We believe healing begins with empathy. Every patient is treated with kindness, dignity, respect, and genuine concern for their physical, emotional, and mental well-being."
+      },
+      {
+        "title": "Excellence",
+        "body": "We strive for the highest standards in Ayurvedic healthcare through skilled professionals, personalized treatments, continuous learning, and a commitment to quality."
+      },
+      {
+        "title": "Holistic Care",
+        "body": "We care for the whole person—not just the illness. Our approach nurtures the body, mind, and spirit to promote lasting health and overall well-being."
+      },
+      {
+        "title": "Patient-Centred Care",
+        "body": "Every individual is unique. We listen carefully, understand each patient's needs, and create personalized treatment plans that support their health journey."
+      },
+      {
+        "title": "Trust",
+        "body": "Built over generations, the trust of our patients is our greatest strength. We honour this trust through ethical practice, transparency, confidentiality, and dependable care."
+      },
+      {
+        "title": "Family-Centred Healing",
+        "body": "We believe the health of mothers, children, and families is the foundation of a healthy community. Our care extends beyond individuals to support the well-being of the entire family."
+      },
+      {
+        "title": "Prevention and Wellness",
+        "body": "We are committed to promoting healthy lifestyles through Ayurveda, nutrition, yoga, counselling, and preventive care, helping individuals achieve lifelong wellness."
+      },
+      {
+        "title": "Respect for Nature",
+        "body": "We embrace Ayurveda's deep connection with nature by encouraging natural healing, sustainable practices, and responsible use of traditional therapies and herbal medicines."
+      },
+      {
+        "title": "Legacy with Innovation",
+        "body": "While proudly preserving our 150-year heritage, we continue to grow through responsible innovation, evidence-informed practice, and compassionate healthcare that meets the needs of today's world."
+      }
+    ]
+  }
+}
