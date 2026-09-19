@@ -46,41 +46,70 @@ export default async function SpecialityPage({ params }: Params) {
 
   return (
     <>
-      <PageHeader
-        kicker={s.sanskrit}
-        title={s.name}
-        intro={s.summary}
-        crumbs={[
-          { label: "Home", href: "/" },
-          { label: "Specialities", href: "/specialities" },
-          { label: s.name },
-        ]}
-      >
-        <div className="flex items-center gap-4">
-          <SpecialityIcon name={s.icon} className="h-10 w-10 text-accent-ink" />
-          {s.malayalam && (
-            <p lang="ml" className="text-lg text-ink-muted">
-              {s.malayalam}
-            </p>
-          )}
-        </div>
-      </PageHeader>
+      <header className="relative isolate overflow-hidden bg-primary pb-16 pt-12 lg:pb-24 lg:pt-16">
+        <div className="grain grain-light absolute inset-0" aria-hidden="true" />
+        
+        <div className="relative mx-auto max-w-[84rem] px-5 lg:px-10">
+          <nav aria-label="Breadcrumb" className="mb-8 lg:mb-16">
+            <ol className="flex flex-wrap items-center gap-2 text-xs">
+              <li className="flex items-center gap-2">
+                <Link href="/" className="text-surface/60 transition-colors hover:text-accent-glow">Home</Link>
+                <span aria-hidden="true" className="text-surface/30">/</span>
+              </li>
+              <li className="flex items-center gap-2">
+                <Link href="/specialities" className="text-surface/60 transition-colors hover:text-accent-glow">Specialities</Link>
+                <span aria-hidden="true" className="text-surface/30">/</span>
+              </li>
+              <li className="flex items-center gap-2">
+                <span aria-current="page" className="text-accent-glow">{s.name}</span>
+              </li>
+            </ol>
+          </nav>
 
-      <section className="bg-surface pt-12 lg:pt-20">
-        <div className="mx-auto max-w-[84rem] px-5 lg:px-10">
-          <Reveal>
-            <div className="relative aspect-[16/9] lg:aspect-[21/9] w-full overflow-hidden rounded-xl border border-ink/10 bg-surface-raised shadow-sm">
-              <img
-                src={`/images/specialities/${s.slug}.jpg`}
-                alt={s.name}
-                loading="eager"
-                decoding="sync"
-                className="absolute inset-0 h-full w-full object-cover object-center"
-              />
-            </div>
-          </Reveal>
+          <div className="grid gap-12 lg:grid-cols-2 lg:items-center lg:gap-16">
+            {/* Left: Image */}
+            <Reveal>
+              <div className="relative aspect-[4/3] w-full overflow-hidden rounded-xl border border-surface/10 bg-primary-deep shadow-2xl lg:aspect-[4/3]">
+                <img
+                  src={`/images/specialities/${s.slug}.jpg`}
+                  alt={s.name}
+                  loading="eager"
+                  decoding="sync"
+                  className="absolute inset-0 h-full w-full object-cover object-center"
+                />
+              </div>
+            </Reveal>
+
+            {/* Right: Heading and Text */}
+            <Reveal index={1} className="flex flex-col justify-center">
+              {s.sanskrit && (
+                <p className="label-caps mb-5 flex items-center gap-3 text-accent-glow">
+                  <span className="inline-block h-px w-8 bg-accent" aria-hidden="true" />
+                  {s.sanskrit}
+                </p>
+              )}
+              <h1 className="text-4xl font-semibold text-surface lg:text-5xl">
+                {s.name}
+              </h1>
+
+              <div className="mt-6 flex items-center gap-4 lg:mt-8">
+                <SpecialityIcon name={s.icon} className="h-10 w-10 text-accent-glow" />
+                {s.malayalam && (
+                  <p lang="ml" className="text-lg text-surface/70">
+                    {s.malayalam}
+                  </p>
+                )}
+              </div>
+
+              {s.summary && (
+                <p className="mt-6 max-w-[48ch] text-lg leading-relaxed text-surface/80 lg:mt-8">
+                  {s.summary}
+                </p>
+              )}
+            </Reveal>
+          </div>
         </div>
-      </section>
+      </header>
 
       {/* ── What we treat ─────────────────────────────────────────── */}
       <section
