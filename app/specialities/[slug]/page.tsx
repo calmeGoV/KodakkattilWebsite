@@ -66,6 +66,22 @@ export default async function SpecialityPage({ params }: Params) {
         </div>
       </PageHeader>
 
+      <section className="bg-surface pt-12 lg:pt-20">
+        <div className="mx-auto max-w-[84rem] px-5 lg:px-10">
+          <Reveal>
+            <div className="relative aspect-[16/9] lg:aspect-[21/9] w-full overflow-hidden rounded-xl border border-ink/10 bg-surface-raised shadow-sm">
+              <img
+                src={`/images/specialities/${s.slug}.jpg`}
+                alt={s.name}
+                loading="eager"
+                decoding="sync"
+                className="absolute inset-0 h-full w-full object-cover object-center"
+              />
+            </div>
+          </Reveal>
+        </div>
+      </section>
+
       {/* ── What we treat ─────────────────────────────────────────── */}
       <section
         aria-labelledby="treats-heading"
