@@ -5,8 +5,7 @@
     "qualifications": "B.A.M.S, F.O.R.S, C.P.D | Ayurvedic Pediatrician",
     "role": "Founder | Specialist in Balachikitsa",
     "specialities": [
-      "paediatric-care",
-      "maternity-care"
+      "paediatric-care"
     ],
     "focusAreas": [
       "Balachikitsa (Kaumarabhritya)",
@@ -26,7 +25,7 @@
       "Malayalam",
       "Hindi"
     ],
-    "experienceYears": 14,
+    "experienceYears": 11,
     "experienceNote": "DUMMY — years of practice not stated in the source document.",
     "consultationModes": [
       "in-person",
@@ -82,7 +81,7 @@
       "Malayalam",
       "Hindi"
     ],
-    "experienceYears": 11,
+    "experienceYears": 6,
     "experienceNote": "DUMMY — years of practice not stated in the source document.",
     "consultationModes": [
       "in-person",
@@ -102,7 +101,7 @@
     "publications": [
       "DUMMY_PUBLICATION — talks and papers to be supplied"
     ],
-    "portrait": "/images/doctors/dr-shilpa-vishnu.jpeg",
+    "portrait": "/images/doctors/dr-shilpa-vishnu-v2.jpeg",
     "isFounder": true,
     "placeholder": false,
     "portraitPlaceholder": false
@@ -113,6 +112,7 @@
     "qualifications": "B.A.M.S | Cosmetology Ayurveda Physician",
     "role": "Consultant, Ayurveda Physician",
     "specialities": [
+      "maternity-care",
       "womens-care"
     ],
     "focusAreas": [],
@@ -121,7 +121,7 @@
       "English",
       "Malayalam"
     ],
-    "experienceYears": 5,
+    "experienceYears": 7,
     "consultationModes": [
       "in-person",
       "teleconsultation",
@@ -154,7 +154,7 @@
       "English",
       "Malayalam"
     ],
-    "experienceYears": 5,
+    "experienceYears": 15,
     "consultationModes": [
       "in-person",
       "teleconsultation",
@@ -178,7 +178,8 @@
     "qualifications": "B.A.M.S, D.H.A | Ayurveda Physician",
     "role": "Consultant, Ayurveda Physician",
     "specialities": [
-      "maternity-care"
+      "maternity-care",
+      "womens-care"
     ],
     "focusAreas": [],
     "bio": [],
@@ -186,7 +187,7 @@
       "English",
       "Malayalam"
     ],
-    "experienceYears": 5,
+    "experienceYears": 8,
     "consultationModes": [
       "in-person",
       "teleconsultation",
@@ -210,7 +211,9 @@
     "qualifications": "B.Sc, M.Sc | Psychologist",
     "role": "Consultant, Psychologist",
     "specialities": [
-      "mental-health"
+      "mental-health",
+      "maternity-care",
+      "womens-care"
     ],
     "focusAreas": [],
     "bio": [],
@@ -218,7 +221,7 @@
       "English",
       "Malayalam"
     ],
-    "experienceYears": 5,
+    "experienceYears": 6,
     "consultationModes": [
       "in-person",
       "teleconsultation",
@@ -232,6 +235,29 @@
     ],
     "publications": [],
     "portrait": "/images/doctors/lameea-n.jpeg",
+    "isFounder": false,
+    "placeholder": false,
+    "experienceNote": ""
+  },
+  {
+    "slug": "shruthi-raju",
+    "name": "Shruthi Raju",
+    "qualifications": "PR Professional",
+    "role": "Public Relations (PR)",
+    "specialities": [],
+    "focusAreas": [],
+    "bio": [
+      "Shruthi Raju handles Public Relations for the clinic, ensuring smooth communication and a welcoming environment for all our patients."
+    ],
+    "languages": [
+      "English",
+      "Malayalam"
+    ],
+    "experienceYears": 1,
+    "consultationModes": [],
+    "clinicHours": [],
+    "publications": [],
+    "portrait": "/images/doctors/shruthi-raju.jpeg",
     "isFounder": false,
     "placeholder": false,
     "experienceNote": ""

@@ -26,44 +26,46 @@
       "speciality": "maternity-care",
       "duration": "6 – 12 weeks",
       "includes": [
-        "Daily or alternate-day therapy",
-        "Abhyanga and bandaging",
-        "Lactation support",
-        "Postpartum nutrition plan",
-        "Pelvic strengthening",
-        "Review consultations"
+        "Full body massage",
+        "Face massage",
+        "Head massage",
+        "Vedukuli",
+        "Kesha Doopanam",
+        "Udaraveshtanam",
+        "Anjanam",
+        "Nasika Doopanam",
+        "Herbal lip balm",
+        "Herbal face rejuvenation pack (daily)",
+        "Herbal hair rejuvenation pack (daily)",
+        "Full body rejuvenation pack (daily)",
+        "Kizhi (Ela / Podi / Njavara / Naranga)",
+        "Baby massage & baby bath",
+        "Herbal hair wash with medicated shampoo",
+        "Postnatal stretch mark care",
+        "Pichu - low back support",
+        "Nasyam",
+        "Netra Sekam - eye care",
+        "Ayurveda doctor consultation online & offline (gynaecologist, paediatrician)",
+        "Psychologist session",
+        "Postnatal diet consultation"
       ],
       "summary": "Structured Sutika Paricharya from the days after delivery, adjusted for a vaginal birth or caesarean recovery.",
       "price": "TODO_PRICE",
       "placeholder": true
     },
-    {
-      "slug": "mother-and-baby",
-      "name": "Mother & Baby Package",
-      "speciality": "maternity-care",
-      "duration": "6 weeks",
-      "includes": [
-        "Mother’s recovery therapies",
-        "Infant massage",
-        "Feeding and sleep guidance",
-        "Paediatric review",
-        "Mother-and-baby suite"
-      ],
-      "summary": "Mother and infant treated together in the same session, in a suite arranged around the feeding schedule.",
-      "price": "TODO_PRICE",
-      "placeholder": true
-    },
+
     {
       "slug": "womens-wellness",
       "name": "Women's Wellness Package",
       "speciality": "womens-care",
       "duration": "4 – 8 weeks",
       "includes": [
-        "Full assessment",
-        "Panchakarma where indicated",
-        "Herbal medicines",
-        "Diet and routine plan",
-        "Follow-up review"
+        "Bridal package",
+        "Rejuvenation package",
+        "Yoga & meditation",
+        "Panchakarma",
+        "Herbal medicine",
+        "Diet & routine plan"
       ],
       "summary": "A general reset for women who are not unwell but not right — sleep, energy, cycle, digestion.",
       "price": "TODO_PRICE",
@@ -77,7 +79,7 @@
       "includes": [
         "Detailed assessment",
         "Herbal medicines",
-        "Udvarthanam and related therapies",
+        "Panchakarma therapies",
         "Diet and exercise plan",
         "Monthly review",
         "Psychological support where wanted"
@@ -125,12 +127,19 @@
       "speciality": "mental-health",
       "duration": "8 – 16 weeks",
       "includes": [
-        "Psychological assessment",
-        "Individual counselling",
-        "Shirodhara and related therapies",
-        "Sleep and routine plan",
-        "Mindfulness practice",
-        "Review sessions"
+        "Post natal counselling",
+        "Paediatric & adult psychological intervention",
+        "Marital counselling",
+        "Support for Learning disabilities",
+        "Couple therapy",
+        "Parental Guidance",
+        "Educational & Career guidance",
+        "Motivational programs",
+        "Group based interventions",
+        "Rehabilitation oriented psychological care",
+        "Behavioural assessment & intervention",
+        "Psychotherapy",
+        "Therapies for specific disorders"
       ],
       "summary": "Psychological care and Ayurvedic therapy run together rather than in parallel.",
       "price": "TODO_PRICE",

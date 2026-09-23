@@ -4,7 +4,7 @@ import Link from "next/link";
 import { BookingCta } from "@/components/home/booking-cta";
 import { PageHeader } from "@/components/layout/page-header";
 import { ButtonLink } from "@/components/ui/button";
-import { MedicalDisclaimer } from "@/components/ui/medical-disclaimer";
+
 import { PlaceholderBadge } from "@/components/ui/placeholder-badge";
 import { Reveal } from "@/components/ui/reveal";
 import { getSpeciality, packages } from "@/lib/content";
@@ -40,8 +40,7 @@ export default function PackagesPage() {
                     id={p.slug}
                     className="flex w-full scroll-mt-28 flex-col rounded-card border border-ink/12 bg-surface-raised p-7"
                   >
-                    <div className="flex items-baseline justify-between gap-3">
-                      <p className="label-caps text-accent-ink">{p.duration}</p>
+                    <div className="flex items-baseline justify-end gap-3">
                       {spec && (
                         <Link
                           href={`/specialities/${spec.slug}`}
@@ -74,11 +73,7 @@ export default function PackagesPage() {
                       ))}
                     </ul>
 
-                    {/* Pricing is deliberately not published; it follows assessment. */}
-                    <p className="mt-6 text-xs text-ink-faint">
-                      Cost is confirmed after your first consultation, once the plan
-                      and its length are known.
-                    </p>
+
 
                     <PlaceholderBadge className="mt-3 self-start" />
 
@@ -97,7 +92,6 @@ export default function PackagesPage() {
         </div>
       </section>
 
-      <MedicalDisclaimer />
       <BookingCta />
     </>
   );
