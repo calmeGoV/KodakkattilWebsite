@@ -13,7 +13,6 @@ const QUICK = [
   { href: "/patient-journey", label: t("nav.journey") },
   { href: "/stories", label: t("nav.stories") },
   { href: "/blog", label: t("nav.blog") },
-  { href: "/gallery", label: t("nav.gallery") },
   { href: "/faq", label: t("nav.faq") },
 ];
 
