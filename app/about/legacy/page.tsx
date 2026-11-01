@@ -14,12 +14,12 @@ import { cn } from "@/lib/utils";
 export const metadata: Metadata = {
   title: "The Ancestral Line",
   description:
-    "Five generations of one Ayurvedic family practice in Kerala — the vaidyans who kept it, and the manuscripts, formulations and training they handed down.",
+    "Four generations of one Ayurvedic family practice in Kerala — the vaidyans who kept it, and the manuscripts, formulations and training they handed down.",
   alternates: { canonical: "/about/legacy" },
   openGraph: {
     title: `The Ancestral Line · ${site.name}`,
     description:
-      "Five generations of one Ayurvedic family practice in Kerala, generation by generation.",
+      "Four generations of one Ayurvedic family practice in Kerala, generation by generation.",
     images: [{ url: "/og/legacy.png", width: 1200, height: 630 }],
   },
 };

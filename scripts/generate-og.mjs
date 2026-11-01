@@ -83,14 +83,14 @@ const cards = [
       title: "Kodakkattil",
       subtitle: "Ancient Wisdom. Modern Care.",
       footnote:
-        "150 years · Five generations · Balachikitsa, maternity, women's health, mental health",
+        "150 years · Four generations · Balachikitsa, maternity, women's health, mental health",
     }),
   ],
   [
     "legacy.png",
     card({
       kicker: "The Ancestral Line",
-      title: "Five generations.",
+      title: "Four generations.",
       subtitle: "One unbroken practice.",
       footnote:
         "The vaidyans who kept it, and the manuscripts they handed down.",

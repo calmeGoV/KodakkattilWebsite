@@ -3,7 +3,7 @@
     "eyebrow": "Thrissur, Kerala · Since 1870",
     "tagline": "Ancient Wisdom. Modern Care.",
     "heading": "150+ years of caring for mothers and children.",
-    "subheading": "An Ayurvedic family practice in Kerala, in its fifth generation — specialising in Balachikitsa, pre and postnatal care, women's wellness and mental health.",
+    "subheading": "An Ayurvedic family practice in Kerala, in its fourth generation — specialising in Balachikitsa, pre and postnatal care, women's wellness and mental health.",
     "primaryCta": {
       "label": "Book a consultation",
       "href": "/book"
@@ -32,7 +32,7 @@
       },
       {
         "id": "generations",
-        "value": 5,
+        "value": 4,
         "suffix": "",
         "label": "Generations",
         "verified": true

@@ -1,8 +1,8 @@
 {
   "title": "The Ancestral Line",
-  "kicker": "Five generations, one unbroken practice",
+  "kicker": "Four generations, one unbroken practice",
   "intro": "Most clinics claim heritage in a paragraph. Ours can be walked through, generation by generation — the vaidyans who kept it, what each of them was known for, and the manuscripts, formulations and training that were handed down intact.",
-  "outro": "The practice is now in its fifth generation, and still a family one.",
+  "outro": "The practice is now in its fourth generation, and still a family one.",
   "note": "DUMMY CONTENT. Every name, date and contribution below is invented placeholder copy, kept so the page can be designed and reviewed. Each entry carries \"placeholder\": true and renders a development badge. Replace the text, drop scans into /public/images/legacy, then set \"placeholder\": false — the badge disappears and no component changes are needed. The two Sanskrit verses ARE genuine classical citations (Charaka Samhita and Sushruta Samhita) and may be kept.",
   "generations": [
     {
@@ -28,22 +28,6 @@
     },
     {
       "order": 2,
-      "era": "c. 1905 – 1946",
-      "name": "Kodakkattil Shankaran Vaidyar",
-      "title": "Vaidyan and Builder",
-      "contribution": "Raised the first purpose-built treatment rooms beside the family house, with a separate wing so that women could be treated in privacy — unusual for the district at the time. He formalised the preparation of medicines on site rather than buying them in.",
-      "artifact": "The original treatment wing, photographed shortly after completion",
-      "image": null,
-      "portrait": null,
-      "verse": null,
-      "preserved": [
-        "The on-site medicine kitchen and its working method",
-        "The practice of a separate consulting space for women"
-      ],
-      "placeholder": true
-    },
-    {
-      "order": 3,
       "era": "c. 1943 – 1981",
       "name": "Kodakkattil Parameswaran Vaidyar",
       "title": "Vaidyan and Teacher",
@@ -64,7 +48,7 @@
       "placeholder": true
     },
     {
-      "order": 4,
+      "order": 3,
       "era": "c. 1978 – 2016",
       "name": "Kodakkattil Aravindakshan Vaidyar",
       "title": "Vaidyan, Balachikitsa",
@@ -80,7 +64,7 @@
       "placeholder": true
     },
     {
-      "order": 5,
+      "order": 4,
       "era": "2016 – present",
       "name": "Dr. Vishnu K S",
       "title": "The Present Generation",
@@ -107,7 +91,7 @@
       },
       {
         "kind": "Formulations",
-        "body": "Twelve oil formulations recorded in the founder's own hand, and the children's preparations refined in the fourth generation, still made on site to the original method."
+        "body": "Twelve oil formulations recorded in the founder's own hand, and the children's preparations refined in the third generation, still made on site to the original method."
       },
       {
         "kind": "Training",
