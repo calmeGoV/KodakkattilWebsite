@@ -6,7 +6,7 @@ import {
   blog,
 } from "@/lib/content";
 
-const BASE_URL = "https://kodakkattilayurvedics.com";
+const BASE_URL = "https://www.kodakkattilayurvedics.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();

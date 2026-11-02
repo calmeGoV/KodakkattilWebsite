@@ -12,7 +12,7 @@ import { t } from "@/lib/i18n";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://kodakkattilayurvedics.com"),
+  metadataBase: new URL("https://www.kodakkattilayurvedics.com"),
   title: {
     default: `${site.name} — ${site.tagline}`,
     template: `%s · ${site.name}`,
